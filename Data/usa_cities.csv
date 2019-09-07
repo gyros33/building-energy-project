@@ -1,0 +1,770 @@
+city,city_ascii,lat,lng,pop,country,iso2,iso3,province,abbr
+Calais,Calais,45.16598859,-67.24239201,1781.5,United States of America,US,USA,Maine,#N/A
+Houlton,Houlton,46.12551658,-67.83971989,6051.5,United States of America,US,USA,Maine,#N/A
+Presque Isle,Presque Isle,46.79340863,-68.00216476,9466,United States of America,US,USA,Maine,#N/A
+Bar Harbor,Bar Harbor,44.38789654,-68.20437464,4483.5,United States of America,US,USA,Maine,#N/A
+Bangor,Bangor,44.80115297,-68.77834477,40843,United States of America,US,USA,Maine,#N/A
+Waterville,Waterville,44.5518917,-69.64578536,20529,United States of America,US,USA,Maine,#N/A
+Augusta,Augusta,44.31056276,-69.77998906,21301,United States of America,US,USA,Maine,#N/A
+Lewiston,Lewiston,44.10070477,-70.21525965,46689,United States of America,US,USA,Maine,#N/A
+Portland,Portland,43.67216158,-70.2455274,99504,United States of America,US,USA,Maine,#N/A
+Salem,Salem,42.5224989,-70.88309175,188982,United States of America,US,USA,Massachusetts,#N/A
+New Bedford,New Bedford,41.6561253,-70.94469833,115082.5,United States of America,US,USA,Massachusetts,#N/A
+Boston,Boston,42.32996014,-71.07001367,2528070.5,United States of America,US,USA,Massachusetts,#N/A
+Newport,Newport,41.49039899,-71.31335799,35893,United States of America,US,USA,Rhode Island,#N/A
+Lowell,Lowell,42.63368837,-71.31669112,415074,United States of America,US,USA,Massachusetts,#N/A
+Providence,Providence,41.82110231,-71.4149797,663726.5,United States of America,US,USA,Rhode Island,#N/A
+Manchester,Manchester,42.99599184,-71.45528731,153221.5,United States of America,US,USA,New Hampshire,#N/A
+Concord,Concord,43.20807192,-71.53804712,42646.5,United States of America,US,USA,New Hampshire,#N/A
+Worcester,Worcester,42.27042889,-71.80002079,232290.5,United States of America,US,USA,Massachusetts,#N/A
+New London,New London,41.3555235,-72.10002832,61236,United States of America,US,USA,Connecticut,#N/A
+Montpelier,Montpelier,44.25997154,-72.57581323,8183,United States of America,US,USA,Vermont,#N/A
+Springfield,Springfield,42.12002464,-72.57999903,287003.5,United States of America,US,USA,Massachusetts,#N/A
+Hartford,Hartford,41.77002016,-72.67996708,518509.5,United States of America,US,USA,Connecticut,#N/A
+New Haven,New Haven,41.33038291,-72.90000533,707883,United States of America,US,USA,Connecticut,#N/A
+Waterbury,Waterbury,41.55000775,-73.05002202,174236,United States of America,US,USA,Connecticut,#N/A
+Bridgeport,Bridgeport,41.17997866,-73.19996118,578545,United States of America,US,USA,Connecticut,#N/A
+Burlington,Burlington,44.47579816,-73.21246688,66204,United States of America,US,USA,Vermont,#N/A
+Pittsfield,Pittsfield,42.44819582,-73.25982833,45202,United States of America,US,USA,Massachusetts,#N/A
+Plattsburg,Plattsburg,44.69498374,-73.45798161,24233.5,United States of America,US,USA,New York,#N/A
+Stamford,Stamford,41.05334556,-73.53919112,434781.5,United States of America,US,USA,Connecticut,#N/A
+Saratoga Springs,Saratoga Springs,43.08296328,-73.78501591,41891,United States of America,US,USA,New York,#N/A
+Albany,Albany,42.67001691,-73.81994918,484286,United States of America,US,USA,New York,#N/A
+Poughkeepsie,Poughkeepsie,41.70023114,-73.92141585,100670.5,United States of America,US,USA,New York,#N/A
+Schenectady,Schenectady,42.81458173,-73.93996769,104767.5,United States of America,US,USA,New York,#N/A
+New York,New York,40.74997906,-73.98001693,13524139,United States of America,US,USA,New York,#N/A
+Paterson,Paterson,40.91999453,-74.17000533,151205,United States of America,US,USA,New Jersey,#N/A
+Newark,Newark,40.70042137,-74.17000533,280123,United States of America,US,USA,New Jersey,#N/A
+Atlantic City,Atlantic City,39.36463727,-74.4233232,58563.5,United States of America,US,USA,New Jersey,#N/A
+Trenton,Trenton,40.2169625,-74.74335535,225713,United States of America,US,USA,New Jersey,#N/A
+Philadelphia,Philadelphia,39.99997316,-75.16999597,3504775,United States of America,US,USA,Pennsylvania,#N/A
+Utica,Utica,43.10117922,-75.23306706,81870,United States of America,US,USA,New York,#N/A
+Allentown,Allentown,40.59998822,-75.50002751,300980.5,United States of America,US,USA,Pennsylvania,#N/A
+Dover,Dover,39.15808657,-75.524703,54662.5,United States of America,US,USA,Delaware,#N/A
+Wilmington,Wilmington,39.74626772,-75.54689803,116205.5,United States of America,US,USA,Delaware,#N/A
+Scranton,Scranton,41.40929283,-75.66267908,114701,United States of America,US,USA,Pennsylvania,#N/A
+Kitty Hawk,Kitty Hawk,36.07731854,-75.70471786,2109.5,United States of America,US,USA,North Carolina,#N/A
+Wilkes Barre,Wilkes Barre,41.24904421,-75.87793726,99824.5,United States of America,US,USA,Pennsylvania,#N/A
+Watertown,Watertown,43.97515688,-75.91106185,30938,United States of America,US,USA,New York,#N/A
+Binghamton,Binghamton,42.09901817,-75.91832239,92687.5,United States of America,US,USA,New York,#N/A
+Virginia Beach,Virginia Beach,36.85321433,-75.97831873,877475.5,United States of America,US,USA,Virginia,#N/A
+Syracuse,Syracuse,43.04999371,-76.15001367,403873.5,United States of America,US,USA,New York,#N/A
+Norfolk,Norfolk,36.84995872,-76.28000574,645336,United States of America,US,USA,Virginia,#N/A
+Lancaster,Lancaster,40.03777447,-76.30576644,209489,United States of America,US,USA,Pennsylvania,#N/A
+Hampton,Hampton,37.03002525,-76.34994979,256601.5,United States of America,US,USA,Virginia,#N/A
+Annapolis,Annapolis,38.9783301,-76.49249923,58776,United States of America,US,USA,Maryland,#N/A
+Ithaca,Ithaca,42.44057355,-76.4969434,45544.5,United States of America,US,USA,New York,#N/A
+Baltimore,Baltimore,39.29999005,-76.61998499,1432946,United States of America,US,USA,Maryland,#N/A
+York,York,39.96292116,-76.72804041,128798.5,United States of America,US,USA,Pennsylvania,#N/A
+Elmira,Elmira,42.09012982,-76.80803552,46201,United States of America,US,USA,New York,#N/A
+Harrisburg,Harrisburg,40.27359987,-76.88474919,289210,United States of America,US,USA,Pennsylvania,#N/A
+St. Charles,St. Charles,38.60305585,-76.93893193,52792,United States of America,US,USA,Maryland,#N/A
+Williamsport,Williamsport,41.24108604,-77.0013829,43791.5,United States of America,US,USA,Pennsylvania,#N/A
+"Washington, D.C.","Washington, D.C.",38.89954938,-77.00941858,2445216.5,United States of America,US,USA,District of Columbia,#N/A
+Alexandria,Alexandria,38.82043276,-77.09998153,127273,United States of America,US,USA,Virginia,#N/A
+Greenville,Greenville,35.61287661,-77.3666836,81661,United States of America,US,USA,North Carolina,#N/A
+Petersburg,Petersburg,37.22776512,-77.40223698,76158.5,United States of America,US,USA,Virginia,#N/A
+Jacksonville,Jacksonville,34.75432436,-77.43055567,72651.5,United States of America,US,USA,North Carolina,#N/A
+Richmond,Richmond,37.55001935,-77.449986,551443,United States of America,US,USA,Virginia,#N/A
+Fredericksburg,Fredericksburg,38.30351341,-77.46078638,76848,United States of America,US,USA,Virginia,#N/A
+Rochester,Rochester,43.17042564,-77.61994979,483177,United States of America,US,USA,New York,#N/A
+Hagerstown,Hagerstown,39.64164878,-77.72027958,58487.5,United States of America,US,USA,Maryland,#N/A
+Rocky Mount,Rocky Mount,35.93799888,-77.79076624,57179,United States of America,US,USA,North Carolina,#N/A
+State College,State College,40.79372316,-77.8602452,64880.5,United States of America,US,USA,Pennsylvania,#N/A
+Wilmington,Wilmington,34.22551943,-77.94502039,126992,United States of America,US,USA,North Carolina,#N/A
+Goldsboro,Goldsboro,35.38513857,-77.99305363,42922.5,United States of America,US,USA,North Carolina,#N/A
+Winchester,Winchester,39.1787313,-78.16663477,39418,United States of America,US,USA,Virginia,#N/A
+Altoona,Altoona,40.51859784,-78.39496708,62784.5,United States of America,US,USA,Pennsylvania,#N/A
+Charlottesville,Charlottesville,38.02918907,-78.47692591,61314,United States of America,US,USA,Virginia,#N/A
+Raleigh,Raleigh,35.81878135,-78.64469344,789991.5,United States of America,US,USA,North Carolina,#N/A
+Cumberland,Cumberland,39.65317263,-78.76277409,20831.5,United States of America,US,USA,Maryland,#N/A
+Harrisonburg,Harrisonburg,38.44942181,-78.86917586,42131.5,United States of America,US,USA,Virginia,#N/A
+Buffalo,Buffalo,42.87997825,-78.88000208,647778.5,United States of America,US,USA,New York,#N/A
+Fayetteville,Fayetteville,35.06293601,-78.88359359,184040.5,United States of America,US,USA,North Carolina,#N/A
+Myrtle Beach,Myrtle Beach,33.68891136,-78.8869784,37333.5,United States of America,US,USA,South Carolina,#N/A
+Durham,Durham,35.99995892,-78.91999964,257114.5,United States of America,US,USA,North Carolina,#N/A
+Johnstown,Johnstown,40.32708498,-78.92222172,45821.5,United States of America,US,USA,Pennsylvania,#N/A
+Lumberton,Lumberton,34.62720034,-79.01190617,27049.5,United States of America,US,USA,North Carolina,#N/A
+Niagara Falls,Niagara Falls,43.09482302,-79.0369434,117567,United States of America,US,USA,New York,#N/A
+Lynchburg,Lynchburg,37.4136194,-79.14246668,84581,United States of America,US,USA,Virginia,#N/A
+Jamestown,Jamestown,42.09736452,-79.23553593,37916.5,United States of America,US,USA,New York,#N/A
+Danville,Danville,36.58625388,-79.39531946,43176,United States of America,US,USA,Virginia,#N/A
+Florence,Florence,34.19567629,-79.76279057,43977.5,United States of America,US,USA,South Carolina,#N/A
+Greensboro,Greensboro,36.07000633,-79.80002344,310328,United States of America,US,USA,North Carolina,#N/A
+Roanoke,Roanoke,37.27119916,-79.94161686,144669.5,United States of America,US,USA,Virginia,#N/A
+Morgantown,Morgantown,39.62981488,-79.95606043,43882.5,United States of America,US,USA,West Virginia,#N/A
+Charleston,Charleston,32.79237693,-79.99210474,254295,United States of America,US,USA,South Carolina,#N/A
+Pittsburgh,Pittsburgh,40.4299986,-79.99998539,1535267.5,United States of America,US,USA,Pennsylvania,#N/A
+Erie,Erie,42.12992067,-80.08499313,138991.5,United States of America,US,USA,Pennsylvania,#N/A
+West Palm Beach,West Palm Beach,26.74501996,-80.12362126,675521.5,United States of America,US,USA,Florida,#N/A
+Miami Beach,Miami Beach,25.80991953,-80.13178111,248538,United States of America,US,USA,Florida,#N/A
+Fort Lauderdale,Fort Lauderdale,26.13606488,-80.14178552,1103781.5,United States of America,US,USA,Florida,#N/A
+Miami,Miami,25.7876107,-80.22410608,2983947,United States of America,US,USA,Florida,#N/A
+Winston-Salem,Winston-Salem,36.10543052,-80.25999536,237491.5,United States of America,US,USA,North Carolina,#N/A
+Coral Springs,Coral Springs,26.27083701,-80.27082158,185548,United States of America,US,USA,Florida,#N/A
+Coral Gables,Coral Gables,25.71541872,-80.29107874,98700.5,United States of America,US,USA,Florida,#N/A
+White Sulphur Springs,White Sulphur Springs,37.79388043,-80.30348108,2154,United States of America,US,USA,West Virginia,#N/A
+Beaver Falls,Beaver Falls,40.75194277,-80.31942326,64814.5,United States of America,US,USA,Pennsylvania,#N/A
+Fort Pierce,Fort Pierce,27.44678591,-80.3258053,132984,United States of America,US,USA,Florida,#N/A
+Clarksburg,Clarksburg,39.28327272,-80.33691573,22502.5,United States of America,US,USA,West Virginia,#N/A
+Sumter,Sumter,33.92065432,-80.34172164,27012,United States of America,US,USA,South Carolina,#N/A
+Vero Beach,Vero Beach,27.64225201,-80.39112431,51650.5,United States of America,US,USA,Florida,#N/A
+Blacksburg,Blacksburg,37.22941876,-80.41419784,53845.5,United States of America,US,USA,Virginia,#N/A
+Salisbury,Salisbury,35.67078005,-80.4744784,33907,United States of America,US,USA,North Carolina,#N/A
+Homestead,Homestead,25.46830202,-80.47778569,60673,United States of America,US,USA,Florida,#N/A
+Melbourne,Melbourne,28.08331036,-80.60832035,170870,United States of America,US,USA,Florida,#N/A
+Youngstown,Youngstown,41.09969932,-80.64973902,194765,United States of America,US,USA,Ohio,#N/A
+Beaufort,Beaufort,32.43216636,-80.68950403,21941,United States of America,US,USA,South Carolina,#N/A
+Wheeling,Wheeling,40.06431032,-80.72107833,40940,United States of America,US,USA,West Virginia,#N/A
+Titusville,Titusville,28.61234784,-80.80779138,47505.5,United States of America,US,USA,Florida,#N/A
+Charlotte,Charlotte,35.20499453,-80.83003809,943574.5,United States of America,US,USA,North Carolina,#N/A
+Orangeburg,Orangeburg,33.49680422,-80.86223251,24192.5,United States of America,US,USA,South Carolina,#N/A
+Columbia,Columbia,34.0399752,-80.89998214,257185.5,United States of America,US,USA,South Carolina,#N/A
+Daytona Beach,Daytona Beach,29.21055422,-81.0230754,140775.5,United States of America,US,USA,Florida,#N/A
+Rock Hill,Rock Hill,34.94038535,-81.03000004,77165,United States of America,US,USA,South Carolina,#N/A
+Savannah,Savannah,32.02110618,-81.10999516,155848.5,United States of America,US,USA,Georgia,#N/A
+Beckley,Beckley,37.78018618,-81.18301396,27358,United States of America,US,USA,West Virginia,#N/A
+Palm Coast,Palm Coast,29.53800193,-81.22329574,45030,United States of America,US,USA,Florida,#N/A
+Sanford,Sanford,28.78995974,-81.27998478,189374.5,United States of America,US,USA,Florida,#N/A
+St. Augustine,St. Augustine,29.89487937,-81.31471135,44214,United States of America,US,USA,Florida,#N/A
+Hickory,Hickory,35.7334894,-81.34140222,64898,United States of America,US,USA,North Carolina,#N/A
+Canton,Canton,40.79886497,-81.37863509,168410,United States of America,US,USA,Ohio,#N/A
+Orlando,Orlando,28.50997683,-81.38003036,778985,United States of America,US,USA,Florida,#N/A
+Kissimmee,Kissimmee,28.29205731,-81.4077806,144589.5,United States of America,US,USA,Florida,#N/A
+Brunswick,Brunswick,31.1496865,-81.49165145,31785.5,United States of America,US,USA,Georgia,#N/A
+Akron,Akron,41.07039878,-81.51999597,451155,United States of America,US,USA,Ohio,#N/A
+Parkersburg,Parkersburg,39.26665875,-81.56164718,46749.5,United States of America,US,USA,West Virginia,#N/A
+Charleston,Charleston,38.34973798,-81.63272811,87113,United States of America,US,USA,West Virginia,#N/A
+Palatka,Palatka,29.64768516,-81.65130579,16094.5,United States of America,US,USA,Florida,#N/A
+Jacksonville,Jacksonville,30.33002077,-81.66998682,904953.5,United States of America,US,USA,Florida,#N/A
+Cleveland,Cleveland,41.4699868,-81.69499821,1169757,United States of America,US,USA,Ohio,#N/A
+Aiken,Aiken,33.5494625,-81.72060388,36716.5,United States of America,US,USA,South Carolina,#N/A
+Winter Haven,Winter Haven,28.02191876,-81.73300623,68435,United States of America,US,USA,Florida,#N/A
+Key West,Key West,24.55523114,-81.78274479,27011.5,United States of America,US,USA,Florida,#N/A
+Naples,Naples,26.14205935,-81.79499211,141902,United States of America,US,USA,Florida,#N/A
+Ft. Myers,Ft. Myers,26.64029767,-81.86049199,120810.5,United States of America,US,USA,Florida,#N/A
+Leesburg,Leesburg,28.81050112,-81.88333297,33929,United States of America,US,USA,Florida,#N/A
+Spartanburg,Spartanburg,34.94942873,-81.93227055,81059,United States of America,US,USA,South Carolina,#N/A
+Cape Coral,Cape Coral,26.60290977,-81.97968368,117387.5,United States of America,US,USA,Florida,#N/A
+Augusta,Augusta,33.46081158,-81.98498051,152895.5,United States of America,US,USA,Georgia,#N/A
+Zanesville,Zanesville,39.94028688,-82.01332503,32514,United States of America,US,USA,Ohio,#N/A
+Port Charlotte,Port Charlotte,27.00004315,-82.10569666,56806,United States of America,US,USA,Florida,#N/A
+Ocala,Ocala,29.1873515,-82.14026819,95470,United States of America,US,USA,Florida,#N/A
+Bristol,Bristol,36.61152366,-82.17600244,31276.5,United States of America,US,USA,Virginia,#N/A
+Gainesville,Gainesville,29.65138002,-82.32503727,158390.5,United States of America,US,USA,Florida,#N/A
+Johnson City,Johnson City,36.31332481,-82.35361434,68070.5,United States of America,US,USA,Tennessee,#N/A
+Waycross,Waycross,31.21381695,-82.35490625,17445.5,United States of America,US,USA,Georgia,#N/A
+Greenville,Greenville,34.85292299,-82.3941545,203256.5,United States of America,US,USA,South Carolina,#N/A
+Huntington,Huntington,38.41957867,-82.44528833,66957,United States of America,US,USA,West Virginia,#N/A
+Tampa,Tampa,27.94698793,-82.45862085,1319232.5,United States of America,US,USA,Florida,#N/A
+Mansfield,Mansfield,40.75832481,-82.51554244,64039,United States of America,US,USA,Ohio,#N/A
+Sarasota,Sarasota,27.33612083,-82.53078699,321223.5,United States of America,US,USA,Florida,#N/A
+Spring Hill,Spring Hill,28.47894513,-82.54771102,91887.5,United States of America,US,USA,Florida,#N/A
+Asheville,Asheville,35.60119773,-82.55414474,105775,United States of America,US,USA,North Carolina,#N/A
+Kingsport,Kingsport,36.54832338,-82.56194788,50709.5,United States of America,US,USA,Tennessee,#N/A
+Lancaster,Lancaster,39.71921511,-82.6053044,42356,United States of America,US,USA,Ohio,#N/A
+Lake City,Lake City,30.18971926,-82.63974675,20159.5,United States of America,US,USA,Florida,#N/A
+Anderson,Anderson,34.50374534,-82.6502629,43475.5,United States of America,US,USA,South Carolina,#N/A
+St. Petersburg,St. Petersburg,27.77053876,-82.67938257,523314.5,United States of America,US,USA,Florida,#N/A
+Douglas,Douglas,31.50777834,-82.85068994,12159,United States of America,US,USA,Georgia,#N/A
+Dublin,Dublin,32.53745709,-82.91828272,19258.5,United States of America,US,USA,Georgia,#N/A
+Columbus,Columbus,39.97997438,-82.9900096,1003418,United States of America,US,USA,Ohio,#N/A
+Detroit,Detroit,42.32996014,-83.08005579,2526135,United States of America,US,USA,Michigan,#N/A
+Valdosta,Valdosta,30.8328583,-83.27859664,53420,United States of America,US,USA,Georgia,#N/A
+Pontiac,Pontiac,42.65185264,-83.29022384,67994,United States of America,US,USA,Michigan,#N/A
+Athens,Athens,33.96129783,-83.3780221,78017.5,United States of America,US,USA,Georgia,#N/A
+Alpena,Alpena,45.06160219,-83.43269576,14524,United States of America,US,USA,Michigan,#N/A
+Toledo,Toledo,41.67002626,-83.57997359,388449,United States of America,US,USA,Ohio,#N/A
+Macon,Macon,32.85038373,-83.63004806,104932.5,United States of America,US,USA,Georgia,#N/A
+Bowling Green,Bowling Green,41.37474713,-83.65139042,33147.5,United States of America,US,USA,Ohio,#N/A
+Flint,Flint,43.0128642,-83.68753809,206235,United States of America,US,USA,Michigan,#N/A
+Ann Arbor,Ann Arbor,42.30037539,-83.71999089,189893,United States of America,US,USA,Michigan,#N/A
+Springfield,Springfield,39.92000388,-83.799986,74450.5,United States of America,US,USA,Ohio,#N/A
+Bay City,Bay City,43.5944566,-83.88889531,51558.5,United States of America,US,USA,Michigan,#N/A
+Knoxville,Knoxville,35.97001243,-83.92003036,417137,United States of America,US,USA,Tennessee,#N/A
+Saginaw,Saginaw,43.4194802,-83.95082951,89457.5,United States of America,US,USA,Michigan,#N/A
+London,London,37.12888226,-84.08335372,7844,United States of America,US,USA,Kentucky,#N/A
+Lima,Lima,40.74287355,-84.10526453,54135,United States of America,US,USA,Ohio,#N/A
+Albany,Albany,31.57873008,-84.15582992,82280,United States of America,US,USA,Georgia,#N/A
+Dayton,Dayton,39.750376,-84.19998743,466067,United States of America,US,USA,Ohio,#N/A
+Oak Ridge,Oak Ridge,36.01065594,-84.26972477,30471.5,United States of America,US,USA,Tennessee,#N/A
+Tallahassee,Tallahassee,30.44998761,-84.28003422,187402.5,United States of America,US,USA,Florida,#N/A
+Sault Ste. Marie,Sault Ste. Marie,46.49526145,-84.34527572,50173.5,United States of America,US,USA,Michigan,#N/A
+Atlanta,Atlanta,33.83001385,-84.39994938,2464454,United States of America,US,USA,Georgia,#N/A
+Cincinnati,Cincinnati,39.16188479,-84.45692265,971191,United States of America,US,USA,Ohio,#N/A
+Lexington,Lexington,38.05001467,-84.50002079,244972,United States of America,US,USA,Kentucky,#N/A
+Covington,Covington,39.0840084,-84.50859908,313064.5,United States of America,US,USA,Kentucky,#N/A
+Marietta,Marietta,33.95561342,-84.54324813,61360,United States of America,US,USA,Georgia,#N/A
+Lansing,Lansing,42.73352724,-84.54673629,198821.5,United States of America,US,USA,Michigan,#N/A
+Frankfort,Frankfort,38.2008065,-84.87335718,32214.5,United States of America,US,USA,Kentucky,#N/A
+Richmond,Richmond,39.82889833,-84.89028121,41015.5,United States of America,US,USA,Indiana,#N/A
+Petoskey,Petoskey,45.37375368,-84.95518681,9424,United States of America,US,USA,Michigan,#N/A
+Dalton,Dalton,34.76972394,-84.97030217,45077.5,United States of America,US,USA,Georgia,#N/A
+Columbus,Columbus,32.47043276,-84.98001734,202225,United States of America,US,USA,Georgia,#N/A
+Apalachicola,Apalachicola,29.72561322,-84.99252303,2134,United States of America,US,USA,Florida,#N/A
+La Grange,La Grange,33.03647056,-85.03187464,28887,United States of America,US,USA,Georgia,#N/A
+Fort Wayne,Fort Wayne,41.08039817,-85.12998234,264793,United States of America,US,USA,Indiana,#N/A
+Battle Creek,Battle Creek,42.32109764,-85.17974675,62454,United States of America,US,USA,Michigan,#N/A
+Chattanooga,Chattanooga,35.06998985,-85.25000086,206571.5,United States of America,US,USA,Tennessee,#N/A
+Muncie,Muncie,40.19375979,-85.38637496,75388,United States of America,US,USA,Indiana,#N/A
+Dothan,Dothan,31.22345461,-85.39058659,61715,United States of America,US,USA,Alabama,#N/A
+Cadillac,Cadillac,44.25121238,-85.41360844,12177.5,United States of America,US,USA,Michigan,#N/A
+Auburn,Auburn,32.60970074,-85.48083948,61881,United States of America,US,USA,Alabama,#N/A
+Kalamazoo,Kalamazoo,42.29215883,-85.58718958,128759.5,United States of America,US,USA,Michigan,#N/A
+Traverse City,Traverse City,44.76844179,-85.62217452,28807,United States of America,US,USA,Michigan,#N/A
+Panama City,Panama City,30.15861005,-85.65527328,68852.5,United States of America,US,USA,Florida,#N/A
+Marion,Marion,40.55833701,-85.65917485,34249,United States of America,US,USA,Indiana,#N/A
+Grand Rapids,Grand Rapids,42.96371991,-85.66994938,361934.5,United States of America,US,USA,Michigan,#N/A
+Louisville,Louisville,38.22501691,-85.74870427,595819.5,United States of America,US,USA,Kentucky,#N/A
+New Albany,New Albany,38.3108773,-85.82128382,78381.5,United States of America,US,USA,Indiana,#N/A
+Enterprise,Enterprise,31.32781516,-85.84399561,23388.5,United States of America,US,USA,Alabama,#N/A
+Elkhart,Elkhart,41.68294537,-85.96879419,100295,United States of America,US,USA,Indiana,#N/A
+Gadsden,Gadsden,34.01455039,-86.00664718,39265,United States of America,US,USA,Alabama,#N/A
+Kokomo,Kokomo,40.48676516,-86.13364201,53674,United States of America,US,USA,Indiana,#N/A
+Indianapolis,Indianapolis,39.74998842,-86.17004806,1104641.5,United States of America,US,USA,Indiana,#N/A
+Muskegon,Muskegon,43.23458193,-86.24836369,70644.5,United States of America,US,USA,Michigan,#N/A
+South Bend,South Bend,41.68330711,-86.25001734,171791,United States of America,US,USA,Indiana,#N/A
+Montgomery,Montgomery,32.36160219,-86.27918868,194491.5,United States of America,US,USA,Alabama,#N/A
+Murfreesboro,Murfreesboro,35.84596315,-86.39026717,100237,United States of America,US,USA,Tennessee,#N/A
+Bowling Green,Bowling Green,36.99069948,-86.44364893,61349,United States of America,US,USA,Kentucky,#N/A
+Benton Harbor,Benton Harbor,42.11663983,-86.45419092,34637.5,United States of America,US,USA,Michigan,#N/A
+Bloomington,Bloomington,39.16565716,-86.52640873,85781.5,United States of America,US,USA,Indiana,#N/A
+Crestview,Crestview,30.75420677,-86.57260746,19552.5,United States of America,US,USA,Florida,#N/A
+Huntsville,Huntsville,34.71995953,-86.60999536,185474.5,United States of America,US,USA,Alabama,#N/A
+Nashville,Nashville,36.16997438,-86.77998499,703926,United States of America,US,USA,Tennessee,#N/A
+Birmingham,Birmingham,33.53000633,-86.82499516,670142,United States of America,US,USA,Alabama,#N/A
+Lafayette,Lafayette,40.41720868,-86.87824772,98104,United States of America,US,USA,Indiana,#N/A
+Selma,Selma,32.40756838,-87.0211589,19553,United States of America,US,USA,Alabama,#N/A
+Columbia,Columbia,35.61499534,-87.03526656,74866,United States of America,US,USA,Tennessee,#N/A
+Escanaba,Escanaba,45.7456948,-87.06436039,14970,United States of America,US,USA,Michigan,#N/A
+Owensboro,Owensboro,37.77457928,-87.11332381,61151.5,United States of America,US,USA,Kentucky,#N/A
+Pensacola,Pensacola,30.42112632,-87.21693506,145319.5,United States of America,US,USA,Florida,#N/A
+Gary,Gary,41.58039349,-87.33000309,335737,United States of America,US,USA,Indiana,#N/A
+Clarksville,Clarksville,36.5300816,-87.35943282,122115,United States of America,US,USA,Tennessee,#N/A
+Marquette,Marquette,46.54673118,-87.40658757,23711,United States of America,US,USA,Michigan,#N/A
+Terre Haute,Terre Haute,39.46664654,-87.41387394,65149.5,United States of America,US,USA,Indiana,#N/A
+Hopkinsville,Hopkinsville,36.86548749,-87.4886239,31630,United States of America,US,USA,Kentucky,#N/A
+Madisonville,Madisonville,37.33274579,-87.5022148,20858.5,United States of America,US,USA,Kentucky,#N/A
+Tuscaloosa,Tuscaloosa,33.22511538,-87.54417607,100594.5,United States of America,US,USA,Alabama,#N/A
+Evansville,Evansville,37.97469627,-87.5558291,144788,United States of America,US,USA,Indiana,#N/A
+Marinette,Marinette,45.10038535,-87.63047571,19170,United States of America,US,USA,Wisconsin,#N/A
+Florence,Florence,34.79969627,-87.67724288,40806.5,United States of America,US,USA,Alabama,#N/A
+Evanston,Evanston,42.04834943,-87.69995467,212243,United States of America,US,USA,Illinois,#N/A
+Sheboygan,Sheboygan,43.75082949,-87.71442407,51148,United States of America,US,USA,Wisconsin,#N/A
+Chicago,Chicago,41.82999066,-87.75005497,5915976,United States of America,US,USA,Illinois,#N/A
+Racine,Racine,42.72771364,-87.81183415,105458.5,United States of America,US,USA,Wisconsin,#N/A
+Waukegan,Waukegan,42.36404075,-87.8447262,144539,United States of America,US,USA,Illinois,#N/A
+Kankakee,Kankakee,41.12036989,-87.86110763,48115.5,United States of America,US,USA,Illinois,#N/A
+Milwaukee,Milwaukee,43.05265505,-87.91996708,983590,United States of America,US,USA,Wisconsin,#N/A
+Green Bay,Green Bay,44.5299809,-88.00001388,149811.5,United States of America,US,USA,Wisconsin,#N/A
+Mobile,Mobile,30.68002525,-88.04998499,221870,United States of America,US,USA,Alabama,#N/A
+Iron Mountain,Iron Mountain,45.82246014,-88.06409265,12011,United States of America,US,USA,Michigan,#N/A
+Joliet,Joliet,41.52998313,-88.10667403,362946.5,United States of America,US,USA,Illinois,#N/A
+West Bend,West Bend,43.42570721,-88.18333602,31980.5,United States of America,US,USA,Wisconsin,#N/A
+Urbana,Urbana,40.10999229,-88.20418746,91792.5,United States of America,US,USA,Illinois,#N/A
+Waukesha,Waukesha,43.0116498,-88.23136926,159012,United States of America,US,USA,Wisconsin,#N/A
+Elgin,Elgin,42.03946108,-88.28991866,244050,United States of America,US,USA,Illinois,#N/A
+Aurora,Aurora,41.76539512,-88.29999557,273949.5,United States of America,US,USA,Illinois,#N/A
+Appleton,Appleton,44.26867902,-88.40050623,136888.5,United States of America,US,USA,Wisconsin,#N/A
+Fond du Lac,Fond du Lac,43.77343793,-88.44691166,48079.5,United States of America,US,USA,Wisconsin,#N/A
+Oshkosh,Oshkosh,44.02510215,-88.54251306,67857.5,United States of America,US,USA,Wisconsin,#N/A
+Hancock,Hancock,47.12729006,-88.5808053,10322.5,United States of America,US,USA,Michigan,#N/A
+Paducah,Paducah,37.08371706,-88.60000309,33812,United States of America,US,USA,Kentucky,#N/A
+Tupelo,Tupelo,34.25792055,-88.70333012,33928,United States of America,US,USA,Mississippi,#N/A
+Meridian,Meridian,32.36418601,-88.70361434,40863.5,United States of America,US,USA,Mississippi,#N/A
+Jackson,Jackson,35.61486615,-88.81389185,62638,United States of America,US,USA,Tennessee,#N/A
+Biloxi,Biloxi,30.39580487,-88.88530868,43857,United States of America,US,USA,Mississippi,#N/A
+Decatur,Decatur,39.8407064,-88.95473596,74967.5,United States of America,US,USA,Illinois,#N/A
+Bloomington,Bloomington,40.48459475,-88.99359664,99842.5,United States of America,US,USA,Illinois,#N/A
+Janesville,Janesville,42.68262596,-89.02157943,65476.5,United States of America,US,USA,Wisconsin,#N/A
+Rockford,Rockford,42.26970542,-89.06969019,204371.5,United States of America,US,USA,Illinois,#N/A
+Gulfport,Gulfport,30.3675637,-89.09276371,76646,United States of America,US,USA,Mississippi,#N/A
+Laurel,Laurel,31.69737917,-89.1392725,23366,United States of America,US,USA,Mississippi,#N/A
+Carbondale,Carbondale,37.72683026,-89.22024947,28473,United States of America,US,USA,Illinois,#N/A
+Hattiesburg,Hattiesburg,31.32727256,-89.2902452,53498.5,United States of America,US,USA,Mississippi,#N/A
+Madison,Madison,43.07301556,-89.40111699,276036,United States of America,US,USA,Wisconsin,#N/A
+Rhinelander,Rhinelander,45.63991315,-89.41207239,9633,United States of America,US,USA,Wisconsin,#N/A
+Cape Girardeau,Cape Girardeau,37.30582237,-89.51808659,38165.5,United States of America,US,USA,Illinois,#N/A
+Wausau,Wausau,44.95915367,-89.6299919,56100.5,United States of America,US,USA,Wisconsin,#N/A
+Springfield,Springfield,39.82000999,-89.65001652,125345,United States of America,US,USA,Illinois,#N/A
+Peoria,Peoria,40.69998212,-89.67004114,142622,United States of America,US,USA,Illinois,#N/A
+Slidell,Slidell,30.27495953,-89.78109379,56019,United States of America,US,USA,Louisiana,#N/A
+Barlett,Barlett,35.22290041,-89.84109013,164843.5,United States of America,US,USA,Tennessee,#N/A
+Memphis,Memphis,35.1199868,-89.99999516,753843.5,United States of America,US,USA,Tennessee,#N/A
+Belleville,Belleville,38.52515362,-90.0002277,92409.5,United States of America,US,USA,Illinois,#N/A
+Southaven,Southaven,34.96891075,-90.00345748,79923,United States of America,US,USA,Mississippi,#N/A
+New Orleans,New Orleans,29.99500246,-90.03996688,527428.5,United States of America,US,USA,Louisiana,#N/A
+Metairie,Metairie,29.98386619,-90.15277653,270171,United States of America,US,USA,Louisiana,#N/A
+Ironwood,Ironwood,46.4558065,-90.15939112,6400,United States of America,US,USA,Michigan,#N/A
+Alton,Alton,38.89099693,-90.18422164,57386,United States of America,US,USA,Illinois,#N/A
+Jackson,Jackson,32.29881533,-90.18499679,213799,United States of America,US,USA,Mississippi,#N/A
+St. Louis,St. Louis,38.63501772,-90.23998051,1259958,United States of America,US,USA,Missouri,#N/A
+Galesburg,Galesburg,40.94777061,-90.37108362,32078.5,United States of America,US,USA,Illinois,#N/A
+Poplar Bluff,Poplar Bluff,36.76019676,-90.40268376,18575,United States of America,US,USA,Missouri,#N/A
+Paragould,Paragould,36.05708722,-90.50288436,22886,United States of America,US,USA,Arkansas,#N/A
+Tomah,Tomah,43.98505292,-90.50389205,10796.5,United States of America,US,USA,Wisconsin,#N/A
+St. Charles,St. Charles,38.78428509,-90.50616581,213139.5,United States of America,US,USA,Missouri,#N/A
+Rock Island,Rock Island,41.49339622,-90.53461369,102055.5,United States of America,US,USA,Illinois,#N/A
+Davenport,Davenport,41.55398684,-90.58753036,178282.5,United States of America,US,USA,Iowa,#N/A
+Dubuque,Dubuque,42.50093162,-90.66445073,59834,United States of America,US,USA,Iowa,#N/A
+Jonesboro,Jonesboro,35.84257835,-90.70416406,58322,United States of America,US,USA,Arkansas,#N/A
+Houma,Houma,29.59593121,-90.71948613,48196,United States of America,US,USA,Louisiana,#N/A
+Vicksburg,Vicksburg,32.3524813,-90.8777452,24669.5,United States of America,US,USA,Mississippi,#N/A
+Greenville,Greenville,33.41037539,-91.06168746,36539.5,United States of America,US,USA,Mississippi,#N/A
+Burlington,Burlington,40.80793418,-91.11276961,27690.5,United States of America,US,USA,Iowa,#N/A
+Baton Rouge,Baton Rouge,30.45794578,-91.14015812,322710.5,United States of America,US,USA,Louisiana,#N/A
+La Crosse,La Crosse,43.80136904,-91.23942855,69599.5,United States of America,US,USA,Wisconsin,#N/A
+Natchez,Natchez,31.55480389,-91.38750737,20490.5,United States of America,US,USA,Mississippi,#N/A
+Quincy,Quincy,39.9359719,-91.40972823,43419.5,United States of America,US,USA,Illinois,#N/A
+Eau Claire,Eau Claire,44.81135907,-91.49835331,71296,United States of America,US,USA,Wisconsin,#N/A
+Iowa City,Iowa City,41.66108624,-91.52997929,81343,United States of America,US,USA,Iowa,#N/A
+Winona,Winona,44.0504236,-91.63919743,29757.5,United States of America,US,USA,Minnesota,#N/A
+Cedar Rapids,Cedar Rapids,41.96998212,-91.66002303,149338.5,United States of America,US,USA,Iowa,#N/A
+New Iberia,New Iberia,30.00358075,-91.81830794,34985,United States of America,US,USA,Louisiana,#N/A
+Ely,Ely,47.90042116,-91.82569767,3687,United States of America,US,USA,Minnesota,#N/A
+Pine Bluff,Pine Bluff,34.22869753,-92.00305119,51472,United States of America,US,USA,Arkansas,#N/A
+Lafayette,Lafayette,30.19997703,-92.01994938,135205.5,United States of America,US,USA,Louisiana,#N/A
+Superior,Superior,46.72124249,-92.10389775,27474,United States of America,US,USA,Wisconsin,#N/A
+Duluth,Duluth,46.78333173,-92.10637822,82026.5,United States of America,US,USA,Minnesota,#N/A
+Monroe,Monroe,32.50960349,-92.11919397,76674.5,United States of America,US,USA,Louisiana,#N/A
+Jefferson City,Jefferson City,38.57662335,-92.17332503,45511,United States of America,US,USA,Missouri,#N/A
+Little Rock,Little Rock,34.73608258,-92.33109318,227555,United States of America,US,USA,Arkansas,#N/A
+Columbia,Columbia,38.95207847,-92.33390955,244754,United States of America,US,USA,Missouri,#N/A
+Waterloo,Waterloo,42.49315432,-92.34279789,82091.5,United States of America,US,USA,Iowa,#N/A
+Ottumwa,Ottumwa,41.01288291,-92.414809,25287.5,United States of America,US,USA,Iowa,#N/A
+Alexandria,Alexandria,31.31109784,-92.44501388,60876,United States of America,US,USA,Louisiana,#N/A
+Conway,Conway,35.09128054,-92.4513184,56759.5,United States of America,US,USA,Arkansas,#N/A
+Rochester,Rochester,44.02205324,-92.46968937,102433,United States of America,US,USA,Minnesota,#N/A
+Virginia,Virginia,47.52367413,-92.53640365,8709,United States of America,US,USA,Minnesota,#N/A
+Kirksville,Kirksville,40.19368227,-92.58280908,18083,United States of America,US,USA,Missouri,#N/A
+El Dorado,El Dorado,33.21392743,-92.66251998,21384.5,United States of America,US,USA,Arkansas,#N/A
+Hot Springs,Hot Springs,34.50395205,-93.05500248,40826,United States of America,US,USA,Arkansas,#N/A
+St. Paul,St. Paul,44.94398663,-93.08497481,509961,United States of America,US,USA,Minnesota,#N/A
+Mason City,Mason City,43.15401837,-93.20083338,27327,United States of America,US,USA,Iowa,#N/A
+Lake Charles,Lake Charles,30.22638369,-93.21718897,77065,United States of America,US,USA,Louisiana,#N/A
+Lakeville,Lakeville,44.65010276,-93.24251042,156151,United States of America,US,USA,Minnesota,#N/A
+Minneapolis,Minneapolis,44.97997927,-93.25178634,1491886.5,United States of America,US,USA,Minnesota,#N/A
+Faribault,Faribault,44.29048647,-93.26801274,24004.5,United States of America,US,USA,Minnesota,#N/A
+Springfield,Springfield,37.18001609,-93.31999923,180691,United States of America,US,USA,Missouri,#N/A
+Albert Lea,Albert Lea,43.64778668,-93.36870427,19063.5,United States of America,US,USA,Minnesota,#N/A
+International Falls,International Falls,48.60112775,-93.4108464,10832,United States of America,US,USA,Minnesota,#N/A
+Ames,Ames,42.05385297,-93.61972254,56855,United States of America,US,USA,Iowa,#N/A
+Des Moines,Des Moines,41.57998008,-93.61998092,286917.5,United States of America,US,USA,Iowa,#N/A
+Shreveport,Shreveport,32.50001752,-93.77002344,224099,United States of America,US,USA,Louisiana,#N/A
+Port Arthur,Port Arthur,29.89898765,-93.92859257,54972,United States of America,US,USA,Texas,#N/A
+Mankato,Mankato,44.16362083,-93.99915674,45731.5,United States of America,US,USA,Minnesota,#N/A
+Texarkana,Texarkana,33.44210472,-94.03747481,52169,United States of America,US,USA,Arkansas,#N/A
+Beaumont,Beaumont,30.08626304,-94.10168278,107455.5,United States of America,US,USA,Texas,#N/A
+Fayetteville,Fayetteville,36.06297833,-94.15720911,108267.5,United States of America,US,USA,Arkansas,#N/A
+St. Cloud,St. Cloud,45.56120994,-94.16222172,85974,United States of America,US,USA,Minnesota,#N/A
+Ft. Dodge,Ft. Dodge,42.50682273,-94.1802568,26284,United States of America,US,USA,Iowa,#N/A
+Brainerd,Brainerd,46.35800885,-94.20084986,21202.5,United States of America,US,USA,Minnesota,#N/A
+Fort Smith,Fort Smith,35.38622377,-94.39835718,87986.5,United States of America,US,USA,Arkansas,#N/A
+Independence,Independence,39.09111391,-94.41528121,130695,United States of America,US,USA,Missouri,#N/A
+Joplin,Joplin,37.08459556,-94.51307886,60290.5,United States of America,US,USA,Missouri,#N/A
+Kansas City,Kansas City,39.10708851,-94.60409422,955272.5,United States of America,US,USA,Missouri,#N/A
+Kansas City,Kansas City,39.11358052,-94.63014638,324221.5,United States of America,US,USA,Kansas,#N/A
+Nacogdoches,Nacogdoches,31.60374147,-94.65526656,30691,United States of America,US,USA,Texas,#N/A
+Lufkin,Lufkin,31.33843467,-94.72887964,38465.5,United States of America,US,USA,Texas,#N/A
+Longview,Longview,32.50053428,-94.74027429,75658,United States of America,US,USA,Texas,#N/A
+Galveston,Galveston,29.301143,-94.7974801,62516,United States of America,US,USA,Texas,#N/A
+St. Joseph,St. Joseph,39.76903119,-94.84639185,74878.5,United States of America,US,USA,Missouri,#N/A
+Bemidji,Bemidji,47.47357383,-94.88018823,14063.5,United States of America,US,USA,Minnesota,#N/A
+Texas City,Texas City,29.41087791,-94.96276717,55717.5,United States of America,US,USA,Texas,#N/A
+Baytown,Baytown,29.75584393,-94.96772811,76687.5,United States of America,US,USA,Texas,#N/A
+Willmar,Willmar,45.12188275,-95.04330489,18432,United States of America,US,USA,Minnesota,#N/A
+Spencer,Spencer,43.14528505,-95.14717452,10938.5,United States of America,US,USA,Iowa,#N/A
+Pasadena,Pasadena,29.66086265,-95.14774296,388767.5,United States of America,US,USA,Texas,#N/A
+Lawrence,Lawrence,38.95975242,-95.25522994,88020,United States of America,US,USA,Kansas,#N/A
+Tyler,Tyler,32.35108604,-95.30078272,101561.5,United States of America,US,USA,Texas,#N/A
+Houston,Houston,29.81997438,-95.33997929,4053287,United States of America,US,USA,Texas,#N/A
+Freeport,Freeport,28.95948427,-95.35687748,43762,United States of America,US,USA,Texas,#N/A
+Muskogee,Muskogee,35.74821718,-95.36943486,38995.5,United States of America,US,USA,Oklahoma,#N/A
+Conroe,Conroe,30.31206321,-95.45586369,41643,United States of America,US,USA,Texas,#N/A
+Huntsville,Huntsville,30.72376935,-95.55058659,34444.5,United States of America,US,USA,Texas,#N/A
+Coffeyville,Coffeyville,37.03806093,-95.6263184,10955,United States of America,US,USA,Kansas,#N/A
+Topeka,Topeka,39.05000531,-95.66998499,126830.5,United States of America,US,USA,Kansas,#N/A
+McAlester,McAlester,34.93299562,-95.76597396,19894,United States of America,US,USA,Oklahoma,#N/A
+Council Bluffs,Council Bluffs,41.26227338,-95.86080021,80284.5,United States of America,US,USA,Iowa,#N/A
+Tulsa,Tulsa,36.12000327,-95.93002079,669434,United States of America,US,USA,Oklahoma,#N/A
+Bay City,Bay City,28.98111086,-95.96435978,17487,United States of America,US,USA,Texas,#N/A
+Bartlesville,Bartlesville,36.74720013,-95.98058618,24935,United States of America,US,USA,Oklahoma,#N/A
+Omaha,Omaha,41.24000083,-96.00999007,643034,United States of America,US,USA,Nebraska,#N/A
+Emporia,Emporia,38.40423077,-96.18137496,27796.5,United States of America,US,USA,Kansas,#N/A
+Bryan,Bryan,30.67418581,-96.36968388,108156.5,United States of America,US,USA,Texas,#N/A
+Sioux City,Sioux City,42.50038902,-96.39999211,87090,United States of America,US,USA,Iowa,#N/A
+Manhattan,Manhattan,39.19402753,-96.59243514,51289,United States of America,US,USA,Kansas,#N/A
+Crookston,Crookston,47.77376223,-96.60773137,8215.5,United States of America,US,USA,Minnesota,#N/A
+Sherman,Sherman,33.63599469,-96.60858403,38696,United States of America,US,USA,Texas,#N/A
+Port Lavaca,Port Lavaca,28.61601687,-96.62969385,10715.5,United States of America,US,USA,Texas,#N/A
+Lincoln,Lincoln,40.81997479,-96.68000086,244146,United States of America,US,USA,Nebraska,#N/A
+Sioux Falls,Sioux Falls,43.54998903,-96.7299978,148030,United States of America,US,USA,South Dakota,#N/A
+Moorhead,Moorhead,46.87430808,-96.74219344,34332.5,United States of America,US,USA,Minnesota,#N/A
+Brookings,Brookings,44.30676455,-96.78803044,20313.5,United States of America,US,USA,South Dakota,#N/A
+Fargo,Fargo,46.8772278,-96.7894257,127472.5,United States of America,US,USA,North Dakota,#N/A
+Dallas,Dallas,32.82002382,-96.84001693,3004852,United States of America,US,USA,Texas,#N/A
+Shawnee,Shawnee,35.34278973,-96.93378382,29160,United States of America,US,USA,Oklahoma,#N/A
+Victoria,Victoria,28.80499758,-97.00334029,63126.5,United States of America,US,USA,Texas,#N/A
+Arlington,Grand Prairie,32.68476076,-97.02023849,545107.5,United States of America,US,USA,Texas,#N/A
+Grand Forks,Grand Forks,47.92527753,-97.0324858,53496,United States of America,US,USA,North Dakota,#N/A
+Stillwater,Stillwater,36.13535118,-97.06829757,45212,United States of America,US,USA,Oklahoma,#N/A
+Ponca City,Ponca City,36.7073576,-97.08527328,24843,United States of America,US,USA,Oklahoma,#N/A
+Denton,Denton,33.21576194,-97.12883651,138952.5,United States of America,US,USA,Texas,#N/A
+Ardmore,Ardmore,34.1810777,-97.12940495,24467.5,United States of America,US,USA,Oklahoma,#N/A
+Waco,Waco,31.54917116,-97.14638066,143157,United States of America,US,USA,Texas,#N/A
+Wichita,Wichita,37.71998313,-97.32998702,378543.5,United States of America,US,USA,Kansas,#N/A
+Ft. Worth,Ft. Worth,32.73997703,-97.34003809,1090830,United States of America,US,USA,Texas,#N/A
+Norman,Norman,35.22791302,-97.34414636,113525,United States of America,US,USA,Oklahoma,#N/A
+Temple,Temple,31.10209251,-97.36300826,58432,United States of America,US,USA,Texas,#N/A
+Cleburne,Cleburne,32.35152529,-97.39248967,32263,United States of America,US,USA,Texas,#N/A
+Yankton,Yankton,42.88201947,-97.39248967,14495,United States of America,US,USA,South Dakota,#N/A
+Corpus Christi,Corpus Christi,27.74281435,-97.40189478,249977.5,United States of America,US,USA,Texas,#N/A
+Norfolk,Norfolk,42.02871238,-97.43359827,24562,United States of America,US,USA,Nebraska,#N/A
+Brownsville,Brownsville,25.91997988,-97.50000248,174707,United States of America,US,USA,Texas,#N/A
+Oklahoma City,Oklahoma City,35.47004295,-97.51868351,660475,United States of America,US,USA,Oklahoma,#N/A
+Salina,Salina,38.82467023,-97.6071794,46877,United States of America,US,USA,Kansas,#N/A
+Harlingen,Harlingen,26.19755983,-97.69019759,86749,United States of America,US,USA,Texas,#N/A
+Killeen,Killeen,31.11728538,-97.72748214,120464,United States of America,US,USA,Texas,#N/A
+Austin,Austin,30.26694969,-97.74277836,919684,United States of America,US,USA,Texas,#N/A
+Beeville,Beeville,28.40597801,-97.75083989,11748,United States of America,US,USA,Texas,#N/A
+Kingsville,Kingsville,27.51595481,-97.8558464,24560.5,United States of America,US,USA,Texas,#N/A
+Enid,Enid,36.39554201,-97.8780931,45963.5,United States of America,US,USA,Oklahoma,#N/A
+Hutchinson,Hutchinson,38.06549176,-97.92349085,42536.5,United States of America,US,USA,Kansas,#N/A
+San Marcos,San Marcos,29.88307131,-97.94111251,58553.5,United States of America,US,USA,Texas,#N/A
+Mitchell,Mitchell,43.71429425,-98.02619776,14973,United States of America,US,USA,South Dakota,#N/A
+Alice,Alice,27.75046246,-98.07048446,21122,United States of America,US,USA,Texas,#N/A
+New Braunfels,New Braunfels,29.6978113,-98.12632084,45270,United States of America,US,USA,Texas,#N/A
+Falfurrias,Falfurrias,27.22690269,-98.14489852,5152.5,United States of America,US,USA,Texas,#N/A
+Edinburg,Edinburg,26.30318646,-98.1599622,114573.5,United States of America,US,USA,Texas,#N/A
+McAllen,McAllen,26.20303754,-98.22972538,243291,United States of America,US,USA,Texas,#N/A
+Grand Island,Grand Island,40.92226829,-98.35798629,45208.5,United States of America,US,USA,Nebraska,#N/A
+Lawton,Lawton,34.59903668,-98.40997278,85795.5,United States of America,US,USA,Oklahoma,#N/A
+Aberdeen,Aberdeen,45.46511761,-98.48640222,24854,United States of America,US,USA,South Dakota,#N/A
+Wichita Falls,Wichita Falls,33.91362632,-98.49306848,97429,United States of America,US,USA,Texas,#N/A
+San Antonio,San Antonio,29.48733319,-98.50730534,1364905,United States of America,US,USA,Texas,#N/A
+Jamestown,Jamestown,46.90601158,-98.70297815,14954.5,United States of America,US,USA,North Dakota,#N/A
+Devils Lake,Devils Lake,48.11221702,-98.85968693,7312,United States of America,US,USA,North Dakota,#N/A
+Brownwood,Brownwood,31.70789532,-98.98231511,20261,United States of America,US,USA,Texas,#N/A
+Kearney,Kearney,40.70070559,-99.08114628,30155.5,United States of America,US,USA,Nebraska,#N/A
+Vernon,Vernon,34.15105369,-99.29038416,11574.5,United States of America,US,USA,Texas,#N/A
+Hays,Hays,38.87936973,-99.322191,20638.5,United States of America,US,USA,Kansas,#N/A
+Woodward,Woodward,36.43342084,-99.39769027,12339.5,United States of America,US,USA,Oklahoma,#N/A
+Laredo,Laredo,27.50613629,-99.50721847,322768.5,United States of America,US,USA,Texas,#N/A
+Abilene,Abilene,32.4486253,-99.73278609,108008,United States of America,US,USA,Texas,#N/A
+Dodge City,Dodge City,37.76005821,-100.018195,25237.5,United States of America,US,USA,Kansas,#N/A
+Childress,Childress,34.4248871,-100.2139195,5662,United States of America,US,USA,Texas,#N/A
+Pierre,Pierre,44.36833701,-100.350552,13734.5,United States of America,US,USA,South Dakota,#N/A
+Mobridge,Mobridge,45.54012596,-100.4347071,3083.5,United States of America,US,USA,South Dakota,#N/A
+San Angelo,San Angelo,31.4640084,-100.4366966,87297.5,United States of America,US,USA,Texas,#N/A
+Eagle Pass,Eagle Pass,28.71102399,-100.4892774,39683,United States of America,US,USA,Texas,#N/A
+McCook,McCook,40.20559369,-100.6261683,8003,United States of America,US,USA,Nebraska,#N/A
+North Platte,North Platte,41.13628623,-100.7705005,24709.5,United States of America,US,USA,Nebraska,#N/A
+Bismarck,Bismarck,46.80831728,-100.7833163,60288.5,United States of America,US,USA,North Dakota,#N/A
+Garden City,Garden City,37.97521303,-100.8640866,27494.5,United States of America,US,USA,Kansas,#N/A
+Del Rio,Del Rio,29.36294802,-100.8963843,35803.5,United States of America,US,USA,Texas,#N/A
+Minot,Minot,48.23249392,-101.2958173,37162,United States of America,US,USA,North Dakota,#N/A
+Big Spring,Big Spring,32.24318565,-101.4751862,23987,United States of America,US,USA,Texas,#N/A
+Guymon,Guymon,36.68580853,-101.4795012,10843.5,United States of America,US,USA,Oklahoma,#N/A
+Goodland,Goodland,39.34848838,-101.7110374,4258.5,United States of America,US,USA,Kansas,#N/A
+Amarillo,Amarillo,35.22998008,-101.8299966,178526,United States of America,US,USA,Texas,#N/A
+Lubbock,Lubbock,33.58000327,-101.8799677,212343.5,United States of America,US,USA,Texas,#N/A
+Dumas,Dumas,35.86239626,-101.9668875,13551.5,United States of America,US,USA,Texas,#N/A
+Midland,Midland,32.030718,-102.0974996,98141.5,United States of America,US,USA,Texas,#N/A
+Odessa,Odessa,31.84556134,-102.3672248,98655,United States of America,US,USA,Texas,#N/A
+Hereford,Hereford,34.82191713,-102.3985924,15023.5,United States of America,US,USA,Texas,#N/A
+Dalhart,Dalhart,36.06080792,-102.5186109,6763.5,United States of America,US,USA,Texas,#N/A
+Lamar,Lamar,38.08649823,-102.6194058,8567,United States of America,US,USA,Colorado,#N/A
+Dickinson,Dickinson,46.88399742,-102.7888011,15987.5,United States of America,US,USA,North Dakota,#N/A
+Alliance,Alliance,42.10139528,-102.8701915,8269,United States of America,US,USA,Nebraska,#N/A
+Fort Stockton,Fort Stockton,30.89169191,-102.8849968,7434,United States of America,US,USA,Texas,#N/A
+Sidney,Sidney,41.13980023,-102.9782727,6221.5,United States of America,US,USA,Nebraska,#N/A
+Chadron,Chadron,42.82791424,-103.0030774,5686.5,United States of America,US,USA,Nebraska,#N/A
+Hobbs,Hobbs,32.71261436,-103.1406143,28375.5,United States of America,US,USA,New Mexico,#N/A
+Clovis,Clovis,34.40506919,-103.2047706,33477.5,United States of America,US,USA,New Mexico,#N/A
+Rapid City,Rapid City,44.08055096,-103.2305571,67760,United States of America,US,USA,South Dakota,#N/A
+Pecos,Pecos,31.41579429,-103.4998947,7991,United States of America,US,USA,Texas,#N/A
+Williston,Williston,48.15678794,-103.6280005,12767.5,United States of America,US,USA,North Dakota,#N/A
+Scottsbluff,Scottsbluff,41.86750775,-103.6606859,20172,United States of America,US,USA,Nebraska,#N/A
+Alpine,Alpine,30.36071657,-103.6650009,6429.5,United States of America,US,USA,Texas,#N/A
+Tucumcari,Tucumcari,35.16980288,-103.725514,5259.5,United States of America,US,USA,New Mexico,#N/A
+Lead,Lead,44.35084454,-103.7657699,2311,United States of America,US,USA,South Dakota,#N/A
+Carlsbad,Carlsbad,32.420565,-104.2282998,25240,United States of America,US,USA,New Mexico,#N/A
+Raton,Raton,36.89739768,-104.439889,6820,United States of America,US,USA,New Mexico,#N/A
+Trinidad,Trinidad,37.17133445,-104.5063965,8701.5,United States of America,US,USA,Colorado,#N/A
+Roswell,Roswell,33.39453656,-104.5224679,45082.5,United States of America,US,USA,New Mexico,#N/A
+Pueblo,Pueblo,38.2803882,-104.6300066,108244,United States of America,US,USA,Colorado,#N/A
+Glendive,Glendive,47.10858319,-104.7104926,5277.5,United States of America,US,USA,Montana,#N/A
+Greeley,Greeley,40.41919822,-104.739974,106142.5,United States of America,US,USA,Colorado,#N/A
+Colorado Springs,Colorado Springs,38.86296246,-104.7919863,427272,United States of America,US,USA,Colorado,#N/A
+Aurora,Aurora,39.69585736,-104.808497,431966.5,United States of America,US,USA,Colorado,#N/A
+Cheyenne,Cheyenne,41.14000694,-104.8197107,64185,United States of America,US,USA,Wyoming,#N/A
+Van Horn,Van Horn,31.04248374,-104.8322423,1797,United States of America,US,USA,Texas,#N/A
+Denver,Denver,39.73918805,-104.984016,1930799.5,United States of America,US,USA,Colorado,#N/A
+Fort Collins,Fort Collins,40.56068829,-105.0588693,178818.5,United States of America,US,USA,Colorado,#N/A
+Las Vegas,Las Vegas,35.59701194,-105.2225027,15521,United States of America,US,USA,New Mexico,#N/A
+Boulder,Boulder,40.03844627,-105.246093,106897.5,United States of America,US,USA,Colorado,#N/A
+Douglas,Douglas,42.75647158,-105.3845341,5838,United States of America,US,USA,Wyoming,#N/A
+Gillette,Gillette,44.28317425,-105.5052503,26107,United States of America,US,USA,Wyoming,#N/A
+Laramie,Laramie,41.31136599,-105.5905681,25587.5,United States of America,US,USA,Wyoming,#N/A
+Miles City,Miles City,46.4088843,-105.8399844,8399.5,United States of America,US,USA,Montana,#N/A
+Santa Fe,Santa Fe,35.68692893,-105.9372394,80943,United States of America,US,USA,New Mexico,#N/A
+Alamogordo,Alamogordo,32.89947634,-105.9597187,33710.5,United States of America,US,USA,New Mexico,#N/A
+Los Alamos,Los Alamos,35.89110252,-106.2977084,11997,United States of America,US,USA,New Mexico,#N/A
+Casper,Casper,42.86661989,-106.3124878,56149,United States of America,US,USA,Wyoming,#N/A
+El Paso,El Paso,31.77998395,-106.5099952,658331,United States of America,US,USA,Texas,#N/A
+Glasgow,Glasgow,48.18396975,-106.6352588,3144,United States of America,US,USA,Montana,#N/A
+Albuquerque,Albuquerque,35.10497479,-106.6413308,725723,United States of America,US,USA,New Mexico,#N/A
+Las Cruces,Las Cruces,32.31261293,-106.7778083,97675.5,United States of America,US,USA,New Mexico,#N/A
+Socorro,Socorro,34.06211855,-106.8989895,8117,United States of America,US,USA,New Mexico,#N/A
+Gunnison,Gunnison,38.54476483,-106.92829,6273,United States of America,US,USA,Colorado,#N/A
+Rawlins,Rawlins,41.7906649,-107.234292,8458,United States of America,US,USA,Wyoming,#N/A
+Truth or Consequences,Truth or Consequences,33.13359641,-107.2528956,6479,United States of America,US,USA,New Mexico,#N/A
+Glenwood Springs,Glenwood Springs,39.54658999,-107.3247,11272,United States of America,US,USA,Colorado,#N/A
+Craig,Craig,40.51728009,-107.5503968,9315.5,United States of America,US,USA,Colorado,#N/A
+Hardin,Hardin,45.731768,-107.612486,3975.5,United States of America,US,USA,Montana,#N/A
+Deming,Deming,32.26109153,-107.7557848,15523,United States of America,US,USA,New Mexico,#N/A
+Montrose,Montrose,38.47727541,-107.8655197,18463.5,United States of America,US,USA,Colorado,#N/A
+Durango,Durango,37.27564333,-107.8799891,19127.5,United States of America,US,USA,Colorado,#N/A
+Farmington,Farmington,36.75415061,-108.1860944,42917.5,United States of America,US,USA,New Mexico,#N/A
+Thermopolis,Thermopolis,43.64597801,-108.2146715,3195,United States of America,US,USA,Wyoming,#N/A
+Riverton,Riverton,43.02816042,-108.3950481,10350,United States of America,US,USA,Wyoming,#N/A
+Billings,Billings,45.78830202,-108.5400004,102151.5,United States of America,US,USA,Montana,#N/A
+Grand Junction,Grand Junction,39.09385276,-108.5499998,75076,United States of America,US,USA,Colorado,#N/A
+Lander,Lander,42.83300437,-108.7325985,6742,United States of America,US,USA,Wyoming,#N/A
+Gallup,Gallup,35.52407066,-108.7339938,21627,United States of America,US,USA,New Mexico,#N/A
+Powell,Powell,44.75867495,-108.7584367,6054,United States of America,US,USA,Wyoming,#N/A
+Cody,Cody,44.52321128,-109.0571007,8976.5,United States of America,US,USA,Wyoming,#N/A
+Monticello,Monticello,37.87178265,-109.3421995,1811.5,United States of America,US,USA,Utah,#N/A
+Green River,Green River,41.51455772,-109.4649827,10239.5,United States of America,US,USA,Wyoming,#N/A
+Vernal,Vernal,40.45539756,-109.5280022,11175.5,United States of America,US,USA,Utah,#N/A
+Douglas,Douglas,31.35864016,-109.5483627,23438.5,United States of America,US,USA,Arizona,#N/A
+Moab,Moab,38.57370363,-109.5491895,5309,United States of America,US,USA,Utah,#N/A
+Havre,Havre,48.54523968,-109.6776829,10266.5,United States of America,US,USA,Montana,#N/A
+Safford,Safford,32.83382143,-109.7068801,9746.5,United States of America,US,USA,Arizona,#N/A
+Willcox,Willcox,32.25321088,-109.8313945,4451.5,United States of America,US,USA,Arizona,#N/A
+Tombstone,Tombstone,31.71314048,-110.066884,1396.5,United States of America,US,USA,Arizona,#N/A
+Winslow,Winslow,35.28470542,-110.7006954,9931,United States of America,US,USA,Arizona,#N/A
+Price,Price,39.59979087,-110.8100169,9175,United States of America,US,USA,Utah,#N/A
+Tucson,Tucson,32.20499676,-110.8899862,670953.5,United States of America,US,USA,Arizona,#N/A
+Bozeman,Bozeman,45.68009157,-111.0378325,39049.5,United States of America,US,USA,Montana,#N/A
+Montpelier,Montpelier,42.32262209,-111.2969123,2775.5,United States of America,US,USA,Idaho,#N/A
+Great Falls,Great Falls,47.50029055,-111.299987,61316.5,United States of America,US,USA,Montana,#N/A
+Provo,Provo,40.24889854,-111.63777,231238,United States of America,US,USA,Utah,#N/A
+Flagstaff,Flagstaff,35.19809572,-111.6505083,60779.5,United States of America,US,USA,Arizona,#N/A
+Mesa,Mesa,33.42391461,-111.7360844,762217.5,United States of America,US,USA,Arizona,#N/A
+Casa Grande,Casa Grande,32.87937421,-111.7566258,38396.5,United States of America,US,USA,Arizona,#N/A
+Logan,Logan,41.73593955,-111.8335979,58664,United States of America,US,USA,Utah,#N/A
+Nephi,Nephi,39.71027508,-111.8354841,4960,United States of America,US,USA,Utah,#N/A
+Scottsdale,Scottsdale,33.69234784,-111.8680402,15401,United States of America,US,USA,Arizona,#N/A
+Salt Lake City,Salt Lake City,40.7750163,-111.9300519,572013,United States of America,US,USA,Utah,#N/A
+Ogden,Ogden,41.23237856,-111.9680341,227774,United States of America,US,USA,Utah,#N/A
+Idaho Falls,Idaho Falls,43.46668662,-112.0333014,65787,United States of America,US,USA,Idaho,#N/A
+Helena,Helena,46.59274904,-112.035291,33032.5,United States of America,US,USA,Montana,#N/A
+Phoenix,Phoenix,33.53997988,-112.0699917,2436022.5,United States of America,US,USA,Arizona,#N/A
+Richfield,Richfield,38.77247703,-112.0832984,7308.5,United States of America,US,USA,Utah,#N/A
+Grand Canyon,Grand Canyon,36.05478762,-112.1385922,1068.5,United States of America,US,USA,Arizona,#N/A
+Glendale,Glendale,33.58194114,-112.1958238,363360.5,United States of America,US,USA,Arizona,#N/A
+Pocatello,Pocatello,42.87134829,-112.4447234,57327,United States of America,US,USA,Idaho,#N/A
+Prescott,Prescott,34.59001914,-112.4477723,47587,United States of America,US,USA,Arizona,#N/A
+Kanab,Kanab,37.04738853,-112.5254936,2861,United States of America,US,USA,Utah,#N/A
+Butte,Butte,46.0038961,-112.5338394,31478,United States of America,US,USA,Montana,#N/A
+Dillon,Dillon,45.21567548,-112.6839852,4213.5,United States of America,US,USA,Montana,#N/A
+Gila Bend,Gila Bend,32.95037762,-112.7246546,2012,United States of America,US,USA,Arizona,#N/A
+Parowan,Parowan,37.84253379,-112.8272065,2533,United States of America,US,USA,Utah,#N/A
+Cedar City,Cedar City,37.67742759,-113.061094,25371.5,United States of America,US,USA,Utah,#N/A
+St. George,St. George,37.10415509,-113.583336,79988,United States of America,US,USA,Utah,#N/A
+Burley,Burley,42.53581321,-113.7918763,11644.5,United States of America,US,USA,Idaho,#N/A
+Salmon,Salmon,45.17567792,-113.8949966,3297,United States of America,US,USA,Idaho,#N/A
+Missoula,Missoula,46.87224103,-113.9930526,68010,United States of America,US,USA,Montana,#N/A
+Kingman,Kingman,35.18987917,-114.0522221,33306.5,United States of America,US,USA,Arizona,#N/A
+Polson,Polson,47.68800519,-114.156686,5079,United States of America,US,USA,Montana,#N/A
+Lake Havasu City,Lake Havasu City,34.49829348,-114.3082789,55442.5,United States of America,US,USA,Arizona,#N/A
+Kalispell,Kalispell,48.19776735,-114.3159786,25040,United States of America,US,USA,Montana,#N/A
+Twin Falls,Twin Falls,42.5609538,-114.4605693,42958.5,United States of America,US,USA,Idaho,#N/A
+Bullhead City,Bullhead City,35.14817629,-114.5674878,37989,United States of America,US,USA,Arizona,#N/A
+Needles,Needles,34.84842714,-114.6133507,6246.5,United States of America,US,USA,California,#N/A
+Yuma,Yuma,32.68527753,-114.6236084,88402.5,United States of America,US,USA,Arizona,#N/A
+Boulder City,Boulder City,35.97895245,-114.8315802,15072.5,United States of America,US,USA,Nevada,#N/A
+Ely,Ely,39.24702171,-114.887675,3911,United States of America,US,USA,Nevada,#N/A
+Las Vegas,Las Vegas,36.20999778,-115.2200061,1150717,United States of America,US,USA,Nevada,#N/A
+El Centro,El Centro,32.79237693,-115.5580475,41661.5,United States of America,US,USA,California,#N/A
+Elko,Elko,40.83250633,-115.7619886,17537,United States of America,US,USA,Nevada,#N/A
+Wallace,Wallace,47.47421979,-115.9268881,1028,United States of America,US,USA,Idaho,#N/A
+Boise,Boise,43.60859011,-116.2274899,242029,United States of America,US,USA,Idaho,#N/A
+Palm Springs,Palm Springs,33.77735557,-116.5330526,216461,United States of America,US,USA,California,#N/A
+Caldwell,Caldwell,43.66096417,-116.6705378,83403,United States of America,US,USA,Idaho,#N/A
+Coeur d'Alene,Coeur d'Alene,47.67808331,-116.7794458,34514,United States of America,US,USA,Idaho,#N/A
+Ontario,Ontario,44.02662661,-116.9618895,11578,United States of America,US,USA,Oregon,#N/A
+Lewiston,Lewiston,46.41660992,-117.016589,40096.5,United States of America,US,USA,Idaho,#N/A
+Barstow,Barstow,34.89901837,-117.0218858,21119,United States of America,US,USA,California,#N/A
+National City,National City,32.67194501,-117.0980052,104291,United States of America,US,USA,California,#N/A
+San Diego,San Diego,32.82002382,-117.1799899,1938570.5,United States of America,US,USA,California,#N/A
+Tonopah,Tonopah,38.06699038,-117.2289791,1993,United States of America,US,USA,Nevada,#N/A
+Victorville,Victoriaville,34.5365082,-117.2903191,83496,United States of America,US,USA,California,#N/A
+San Bernardino,San Bernardino,34.12038373,-117.3000342,973690.5,United States of America,US,USA,California,#N/A
+Oceanside,Oceanside,33.2204645,-117.3349675,396474.5,United States of America,US,USA,California,#N/A
+Riverside,Riverside,33.94194501,-117.3980386,297554,United States of America,US,USA,California,#N/A
+Spokane,Spokane,47.66999595,-117.4199494,272483.5,United States of America,US,USA,Washington,#N/A
+Winnemucca,Winnemucca,40.97337628,-117.7346847,7997.5,United States of America,US,USA,Nevada,#N/A
+Irvine,Irvine,33.68041058,-117.8299502,1611303.5,United States of America,US,USA,California,#N/A
+La Grande,La Grande,45.32468691,-118.0866012,13646,United States of America,US,USA,Oregon,#N/A
+Lancaster,Lancaster,34.69804873,-118.135823,225799,United States of America,US,USA,California,#N/A
+Pasadena,Pasadena,34.16038129,-118.1388719,144618,United States of America,US,USA,California,#N/A
+Long Beach,Long Beach,33.78696739,-118.1580439,1249195.5,United States of America,US,USA,California,#N/A
+Los Angeles,Los Angeles,33.98997825,-118.1799805,8097410,United States of America,US,USA,California,#N/A
+Walla Walla,Walla Walla,46.06515851,-118.3418828,37864,United States of America,US,USA,Washington,#N/A
+Bishop,Bishop,37.36395835,-118.394076,4249,United States of America,US,USA,California,#N/A
+Pendleton,Pendleton,45.67259849,-118.7874886,16669,United States of America,US,USA,Oregon,#N/A
+John Day,John Day,44.41652529,-118.9520264,1437.5,United States of America,US,USA,Oregon,#N/A
+Bakersfield,Bakersfield,35.36997154,-119.0199809,367259,United States of America,US,USA,California,#N/A
+Kennewick,Kennewick,46.21137697,-119.1360979,82331,United States of America,US,USA,Washington,#N/A
+Delano,Delano,35.76193728,-119.2430681,42396.5,United States of America,US,USA,California,#N/A
+Richland,Richland,46.29181134,-119.2911013,39940.5,United States of America,US,USA,Washington,#N/A
+Visalia,Visalia,36.32502952,-119.3160094,114699.5,United States of America,US,USA,California,#N/A
+Tulare,Tulare,36.20702639,-119.3441213,53005.5,United States of America,US,USA,California,#N/A
+Santa Barbara,Santa Barbara,34.43498985,-119.7199899,135021,United States of America,US,USA,California,#N/A
+Carson City,Carson City,39.16384849,-119.7663953,53767,United States of America,US,USA,Nevada,#N/A
+Fresno,Fresno,36.7477169,-119.7729841,540768,United States of America,US,USA,California,#N/A
+Reno,Reno,39.52997601,-119.8200096,265363.5,United States of America,US,USA,Nevada,#N/A
+Wenatchee,Wenatchee,47.42362856,-120.3090237,45892,United States of America,US,USA,Washington,#N/A
+Santa Maria,Santa Maria,34.94012697,-120.4366386,98092.5,United States of America,US,USA,California,#N/A
+Merced,Merced,37.30261843,-120.481933,84355,United States of America,US,USA,California,#N/A
+Yakima,Yakima,46.60223167,-120.5046965,93846,United States of America,US,USA,Washington,#N/A
+San Luis Obispo,San Luis Obispo,35.28318097,-120.6585889,54759,United States of America,US,USA,California,#N/A
+Paso Robles,Paso Robles,35.6265967,-120.6899823,26221,United States of America,US,USA,California,#N/A
+Modesto,Modesto,37.65541343,-120.9899899,269697,United States of America,US,USA,California,#N/A
+Stockton,Stockton,37.95813397,-121.289739,488506.5,United States of America,US,USA,California,#N/A
+Bend,Bend,44.071921,-121.3099962,70598.5,United States of America,US,USA,Oregon,#N/A
+Sacramento,Sacramento,38.57502138,-121.4700381,1035949,United States of America,US,USA,California,#N/A
+Yuba City,Yuba City,39.14103334,-121.6157656,84324.5,United States of America,US,USA,California,#N/A
+Salinas,Salinas,36.68221702,-121.6416555,152737.5,United States of America,US,USA,California,#N/A
+Klamath Falls,Klamath Falls,42.22500531,-121.7805359,31090.5,United States of America,US,USA,Oregon,#N/A
+Chico,Chico,39.72862022,-121.8363982,83226.5,United States of America,US,USA,California,#N/A
+San Jose,San Jose,37.29998293,-121.8499891,1281471.5,United States of America,US,USA,California,#N/A
+Monterey,Monterey,36.6002582,-121.8935781,77297.5,United States of America,US,USA,California,#N/A
+Santa Cruz,Santa Cruz,36.97194629,-122.0263904,101530.5,United States of America,US,USA,California,#N/A
+Everett,Everett,47.9604175,-122.1999677,291948,United States of America,US,USA,Washington,#N/A
+Oakland,Oakland,37.76892071,-122.2211034,953044,United States of America,US,USA,California,#N/A
+Vallejo,Vallejo,38.11194887,-122.258052,133367.5,United States of America,US,USA,California,#N/A
+Berkeley,Berkeley,37.87390139,-122.271152,298257,United States of America,US,USA,California,#N/A
+Mt. Shasta,Mt. Shasta,41.3103583,-122.3093925,3742.5,United States of America,US,USA,California,#N/A
+San Mateo,San Mateo,37.55691815,-122.3130616,361806.5,United States of America,US,USA,California,#N/A
+Seattle,Seattle,47.57000205,-122.339985,1821684.5,United States of America,US,USA,Washington,#N/A
+Redding,Redding,40.58704327,-122.3905762,93871.5,United States of America,US,USA,California,#N/A
+San Francisco,San Francisco,37.74000775,-122.4599777,2091036,United States of America,US,USA,California,#N/A
+Bellingham,Bellingham,48.76013613,-122.4869269,86565.5,United States of America,US,USA,Washington,#N/A
+Tacoma,Tacoma,47.21131594,-122.5150131,460273,United States of America,US,USA,Washington,#N/A
+Vancouver,Vancouver,45.63030133,-122.6399925,343796.5,United States of America,US,USA,Washington,#N/A
+Bremerton,Bremerton,47.57359552,-122.6420175,82039.5,United States of America,US,USA,Washington,#N/A
+Portland,Portland,45.52002382,-122.6799901,1207756.5,United States of America,US,USA,Oregon,#N/A
+Santa Rosa,Santa Rosa,38.45040367,-122.6999889,193455,United States of America,US,USA,California,#N/A
+Medford,Medford,42.32662701,-122.8744227,89081.5,United States of America,US,USA,Oregon,#N/A
+Olympia,Olympia,47.03804486,-122.899434,100950,United States of America,US,USA,Washington,#N/A
+Longview,Longview,46.13871991,-122.9369511,51290,United States of America,US,USA,Washington,#N/A
+Centralia,Centralia,46.71641075,-122.9529708,16993.5,United States of America,US,USA,Washington,#N/A
+Springfield,Springfield,44.05194806,-122.9780339,55531.5,United States of America,US,USA,Oregon,#N/A
+Salem,Salem,44.92807029,-123.0238967,187966,United States of America,US,USA,Oregon,#N/A
+Albany,Albany,44.62049217,-123.086942,48066.5,United States of America,US,USA,Oregon,#N/A
+Eugene,Eugene,44.05001019,-123.1000161,195183,United States of America,US,USA,Oregon,#N/A
+Ukiah,Ukiah,39.15423667,-123.2108621,21826.5,United States of America,US,USA,California,#N/A
+Corvallis,Corvallis,44.57235557,-123.2799793,54865.5,United States of America,US,USA,Oregon,#N/A
+Grants Pass,Grants Pass,42.43954002,-123.3271857,36690,United States of America,US,USA,Oregon,#N/A
+Roseburg,Roseburg,43.21843304,-123.3560987,25454.5,United States of America,US,USA,Oregon,#N/A
+Mendocino,Mendocino,39.30776735,-123.7994308,548,United States of America,US,USA,California,#N/A
+Aberdeen,Aberdeen,46.97489626,-123.8143911,24400,United States of America,US,USA,Washington,#N/A
+Astoria,Astoria,46.18838096,-123.8299974,9773,United States of America,US,USA,Oregon,#N/A
+Tillamook,Tillamook,45.45524742,-123.8425031,6351.5,United States of America,US,USA,Oregon,#N/A
+Arcata,Arcata,40.88519045,-124.0882245,19052,United States of America,US,USA,California,#N/A
+Eureka,Eureka,40.80222394,-124.1474974,34012,United States of America,US,USA,California,#N/A
+Crescent City,Crescent City,41.7564551,-124.2004916,9439.5,United States of America,US,USA,California,#N/A
+Coos Bay,Coos Bay,43.36661521,-124.2165888,23685,United States of America,US,USA,Oregon,#N/A
+Ketchikan,Ketchikan,55.3562193,-131.6639895,8121,United States of America,US,USA,Alaska,#N/A
+Wrangell,Wrangell,56.47126752,-132.3715949,1658.5,United States of America,US,USA,Alaska,#N/A
+Hydaburg,Hydaburg,55.21397992,-132.8006385,382,United States of America,US,USA,Alaska,#N/A
+Juneau,Juneau,58.31412661,-134.419997,26172,United States of America,US,USA,Alaska,#N/A
+Skagway,Skagway,59.45832033,-135.3138959,955,United States of America,US,USA,Alaska,#N/A
+Sitka,Sitka,57.06039769,-135.3275494,8110,United States of America,US,USA,Alaska,#N/A
+Hoonah,Hoonah,58.11540489,-135.438617,361,United States of America,US,USA,Alaska,#N/A
+Yakutat,Yakutat,59.54730715,-139.7272183,109,United States of America,US,USA,Alaska,#N/A
+Eagle,Eagle,64.78799501,-141.1999966,104,United States of America,US,USA,Alaska,#N/A
+Tanacross,Tanacross,63.38570335,-143.346403,136,United States of America,US,USA,Alaska,#N/A
+Kaktovik,Kaktovik,70.08785552,-143.6029132,101,United States of America,US,USA,Alaska,#N/A
+Circle,Circle,65.82589032,-144.0605197,100,United States of America,US,USA,Alaska,#N/A
+Fort Yukon,Fort Yukon,66.56468243,-145.2737789,833,United States of America,US,USA,Alaska,#N/A
+Gulkana,Gulkana,62.27135276,-145.3821961,119,United States of America,US,USA,Alaska,#N/A
+Cordova,Cordova,60.5427761,-145.7574962,1622.5,United States of America,US,USA,Alaska,#N/A
+Big Delta,Big Delta,64.15252993,-145.8421939,591,United States of America,US,USA,Alaska,#N/A
+Valdez,Valdez,61.13599571,-146.348287,3283,United States of America,US,USA,Alaska,#N/A
+Fairbanks,Fairbanks,64.83698427,-147.7106586,43608.5,United States of America,US,USA,Alaska,#N/A
+Prudhoe Bay,Prudhoe Bay,70.29218101,-148.6693598,2337,United States of America,US,USA,Alaska,#N/A
+Whittier,Whittier,60.78415672,-148.6776797,177,United States of America,US,USA,Alaska,#N/A
+Denali Park,Denali Park,63.73309816,-148.9140994,1063,United States of America,US,USA,Alaska,#N/A
+Cantwell,Cantwell,63.39159446,-148.9507896,222,United States of America,US,USA,Alaska,#N/A
+Nenana,Nenana,64.56379681,-149.0930032,75,United States of America,US,USA,Alaska,#N/A
+Palmer,Palmer,61.59971417,-149.1126919,9848,United States of America,US,USA,Alaska,#N/A
+Wasilla,Wasilla,61.58173077,-149.439442,8521,United States of America,US,USA,Alaska,#N/A
+Seward,Seward,60.1261607,-149.4699827,2900,United States of America,US,USA,Alaska,#N/A
+Anchorage,Anchorage,61.21996991,-149.9002149,252068,United States of America,US,USA,Alaska,#N/A
+Montana,Montana,62.07968487,-150.0727625,10,United States of America,US,USA,Alaska,#N/A
+Wiseman,Wiseman,67.4104706,-150.1074891,14,United States of America,US,USA,Alaska,#N/A
+Talkeetna,Talkeetna,62.3237785,-150.1094269,1078,United States of America,US,USA,Alaska,#N/A
+Kenai,Kenai,60.55435162,-151.2580131,6580.5,United States of America,US,USA,Alaska,#N/A
+Homer,Homer,59.64293439,-151.5482797,5021.5,United States of America,US,USA,Alaska,#N/A
+Tanana,Tanana,65.17187339,-152.0787899,291.5,United States of America,US,USA,Alaska,#N/A
+Lake Minchumina,Lake Minchumina,63.88283063,-152.3121865,32,United States of America,US,USA,Alaska,#N/A
+Kodiak,Kodiak,57.78999839,-152.4069869,7804.5,United States of America,US,USA,Alaska,#N/A
+Allakaket,Allakaket,66.56548342,-152.6454995,97,United States of America,US,USA,Alaska,#N/A
+Hughes,Hughes,66.04918418,-154.2549878,78,United States of America,US,USA,Alaska,#N/A
+Karluk,Karluk,57.57228558,-154.4550273,96,United States of America,US,USA,Alaska,#N/A
+Newhalen,Newhalen,59.72034568,-154.8971967,160,United States of America,US,USA,Alaska,#N/A
+Hilo,Hilo,19.69999778,-155.0900273,47720.5,United States of America,US,USA,Hawaii,#N/A
+McGrath,McGrath,62.9568148,-155.5957845,138,United States of America,US,USA,Alaska,#N/A
+Kailua-Kona,Kailua-Kona,19.6405556,-155.9955556,9870,United States of America,US,USA,Hawaii,#N/A
+Wailuku,Wailuku,20.89147544,-156.5047213,32769.5,United States of America,US,USA,Hawaii,#N/A
+King Salmon,King Salmon,58.68870323,-156.6613784,292,United States of America,US,USA,Alaska,#N/A
+Barrow,Barrow,71.29056968,-156.78858,3412,United States of America,US,USA,Alaska,#N/A
+Kobuk,Kobuk,66.9072455,-156.8809774,151,United States of America,US,USA,Alaska,#N/A
+Galena,Galena,64.73329551,-156.9269953,485,United States of America,US,USA,Alaska,#N/A
+Red Devil,Red Devil,61.76099632,-157.3125273,24,United States of America,US,USA,Alaska,#N/A
+Atqasuk,Atqasuk,70.4693795,-157.395778,201,United States of America,US,USA,Alaska,#N/A
+Pilot Point,Pilot Point,57.56455996,-157.5691266,68,United States of America,US,USA,Alaska,#N/A
+Koyukuk,Koyukuk,64.88028912,-157.7008499,101,United States of America,US,USA,Alaska,#N/A
+Ambler,Ambler,67.08648521,-157.8514091,258,United States of America,US,USA,Alaska,#N/A
+Honolulu,Honolulu,21.30687644,-157.8579979,578828.5,United States of America,US,USA,Hawaii,#N/A
+Wahiawa,Wahiawa,21.50309186,-158.0236209,95336,United States of America,US,USA,Hawaii,#N/A
+Chignik,Chignik,56.295671,-158.4022282,118,United States of America,US,USA,Alaska,#N/A
+Dillingham,Dillingham,59.05656031,-158.4803121,1710,United States of America,US,USA,Alaska,#N/A
+Port Heiden,Port Heiden,56.94909365,-158.6268915,102,United States of America,US,USA,Alaska,#N/A
+Kaltag,Kaltag,64.32719627,-158.7218986,190,United States of America,US,USA,Alaska,#N/A
+Perryville,Perryville,55.91861391,-159.1511489,113,United States of America,US,USA,Alaska,#N/A
+Lihue,Lihue,21.98151227,-159.3710063,10694.5,United States of America,US,USA,Hawaii,#N/A
+Aniak,Aniak,61.5787077,-159.5221857,501,United States of America,US,USA,Alaska,#N/A
+Nyac,Nyac,61.00414329,-159.9404806,75,United States of America,US,USA,Alaska,#N/A
+Selawik,Selawik,66.60387901,-160.0093911,832,United States of America,US,USA,Alaska,#N/A
+Wainwright,Wainwright,70.63688865,-160.0383041,174,United States of America,US,USA,Alaska,#N/A
+Togiak,Togiak,59.07036101,-160.3783234,236,United States of America,US,USA,Alaska,#N/A
+Sand Point,Sand Point,55.33970868,-160.4971908,667,United States of America,US,USA,Alaska,#N/A
+Unalakleet,Unalakleet,63.87342552,-160.7880516,741,United States of America,US,USA,Alaska,#N/A
+Koyuk,Koyuk,64.94026874,-161.1574717,254,United States of America,US,USA,Alaska,#N/A
+Goodnews Bay,Goodnews Bay,59.12099265,-161.5871302,230,United States of America,US,USA,Alaska,#N/A
+Bethel,Bethel,60.79330345,-161.7557961,5440.5,United States of America,US,USA,Alaska,#N/A
+Quinhagak,Quinhagak,59.74923281,-161.9157864,250,United States of America,US,USA,Alaska,#N/A
+Kotzebue,Kotzebue,66.89869305,-162.5965975,2873.5,United States of America,US,USA,Alaska,#N/A
+Cold Bay,Cold Bay,55.20000144,-162.7150916,154,United States of America,US,USA,Alaska,#N/A
+False Pass,False Pass,54.85121136,-163.415023,35,United States of America,US,USA,Alaska,#N/A
+Kotlit,Kotlit,63.03458783,-163.5532833,1002,United States of America,US,USA,Alaska,#N/A
+Mountain Village,Mountain Village,62.08552431,-163.729009,755,United States of America,US,USA,Alaska,#N/A
+Kivalina,Kivalina,67.73149224,-164.4859034,374,United States of America,US,USA,Alaska,#N/A
+Emmonak,Emmonak,62.77698081,-164.5229916,100,United States of America,US,USA,Alaska,#N/A
+Tununak,Tununak,60.58548667,-165.2557892,352,United States of America,US,USA,Alaska,#N/A
+Nome,Nome,64.50610008,-165.4063744,3021,United States of America,US,USA,Alaska,#N/A
+Shishmaref,Shishmaref,66.25697512,-166.0718893,254,United States of America,US,USA,Alaska,#N/A
+Hooper Bay,Hooper Bay,61.53108787,-166.0965648,623,United States of America,US,USA,Alaska,#N/A
+Mekoryuk,Mekoryuk,60.38864671,-166.1899372,99,United States of America,US,USA,Alaska,#N/A
+Teller,Teller,65.26359906,-166.3607864,83,United States of America,US,USA,Alaska,#N/A
+Unalaska,Unalaska,53.868584,-166.5316028,1938.5,United States of America,US,USA,Alaska,#N/A
+Point Hope,Point Hope,68.34772605,-166.8080201,461,United States of America,US,USA,Alaska,#N/A
+Wales,Wales,65.60959861,-168.0875027,99,United States of America,US,USA,Alaska,#N/A
+Nikolski,Nikolski,52.93843406,-168.8676876,18,United States of America,US,USA,Alaska,#N/A
+Gambell,Gambell,63.77971031,-171.7310787,681,United States of America,US,USA,Alaska,#N/A
+Atka,Atka,52.19648968,-174.2004887,61,United States of America,US,USA,Alaska,#N/A
