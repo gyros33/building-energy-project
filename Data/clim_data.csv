@@ -1,0 +1,569 @@
+ALABAMA,3A Lee,7 Kodiak Island,3A Calhoun,3A Monroe
+3A Autauga*,3A Limestone,7 Lake and Peninsula,4A Carroll,3A Montgomery
+2A Baldwin*,3A Lowndes*,7 Matanuska-Susitna,3A Chicot,3A Nevada
+3A Barbour*,3A Macon*,8 Nome,3A Clark,4A Newton
+3A Bibb,3A Madison,8 North Slope,3A Clay,3A Ouachita
+3A Blount,3A Marengo*,8 Northwest Arctic,3A Cleburne,3A Perry
+3A Bullock*,3A Marion,7 Prince of Wales,3A Cleveland,3A Phillips
+3A Butler*,3A Marshall,Outer Ketchikan,3A Columbia*,3A Pike
+3A Calhoun,2A Mobile*,7 Sitka,3A Conway,3A Poinsett
+3A Chambers,3A Monroe*,7 Skagway-Hoonah,3A Craighead,3A Polk
+3A Cherokee,3A Montgomery*,Angoon,3A Crawford,3A Pope
+3A Chilton,3A Morgan,8 Southeast Fairbanks,3A Crittenden,3A Prairie
+3A Choctaw*,3A Perry*,7 Valdez-Cordova,3A Cross,3A Pulaski
+3A Clarke*,3A Pickens,8 Wade Hampton,3A Dallas,3A Randolph
+3A Clay,3A Pike*,7 Wrangell-Petersburg,3A Desha,3A Saline
+3A Cleburne,3A Randolph,7 Yakutat,3A Drew,3A Scott
+3A Coffee*,3A Russell*,8 Yukon-Koyukuk,3A Faulkner,4A Searcy
+3A Colbert,3A Shelby,ARIZONA,3A Franklin,3A Sebastian
+3A Conecuh*,3A St. Clair,5B Apache,4A Fulton,3A Sevier*
+3A Coosa,3A Sumter,3B Cochise,3A Garland,3A Sharp
+3A Covington*,3A Talladega,5B Coconino,3A Grant,3A St. Francis
+3A Crenshaw*,3A Tallapoosa,4B Gila,3A Greene,4A Stone
+3A Cullman,3A Tuscaloosa,3B Graham,3A Hempstead*,3A Union*
+3A Dale*,3A Walker,3B Greenlee,3A Hot Spring,3A Van Buren
+3A Dallas*,3A Washington*,2B La Paz,3A Howard,4A Washington
+3A DeKalb,3A Wilcox*,2B Maricopa,3A Independence,3A White
+3A Elmore*,3A Winston,3B Mohave,4A Izard,3A Woodruff
+3A Escambia*,ALASKA,5B Navajo,3A Jackson,3A Yell
+3A Etowah,7 Aleutians East,2B Pima,3A Jefferson,CALIFORNIA
+3A Fayette,7 Aleutians West,2B Pinal,3A Johnson,3C Alameda
+3A Franklin,7 Anchorage,3B Santa Cruz,3A Lafayette*,6B Alpine
+3A Geneva*,8 Bethel,4B Yavapai,3A Lawrence,4B Amador
+3A Greene,7 Bristol Bay,2B Yuma,3A Lee,3B Butte
+3A Hale,7 Denali,ARKANSAS,3A Lincoln,4B Calaveras
+3A Henry*,8 Dillingham,3A Arkansas,3A Little River*,3B Colusa
+3A Houston*,8 Fairbanks North Star,3A Ashley,3A Logan,3B Contra Costa
+3A Jackson,7 Haines,4A Baxter,3A Lonoke,4C Del Norte
+3A Jefferson,7 Juneau,4A Benton,4A Madison,4B El Dorado
+3A Lamar,7 Kenai Peninsula,4A Boone,4A Marion,3B Fresno
+3A Lauderdale,7 Ketchikan Gateway,3A Bradley,3A Miller*,3B Glenn
+3A Lawrence,,,3A Mississippi,
+4C Humboldt,3B Yuba,5B Montrose,2A Escambia*,2A Taylor*
+2B Imperial,COLORADO,5B Morgan,2A Flagler*,2A Union*
+4B Inyo,5B Adams,4B Otero,2A Franklin*,2A Volusia*
+3B Kern,6B Alamosa,6B Ouray,2A Gadsden*,2A Wakulla*
+3B Kings,5B Arapahoe,7 Park,2A Gilchrist*,2A Walton*
+4B Lake,6B Archuleta,5B Phillips,2A Glades*,2A Washington*
+5B Lassen,4B Baca,7 Pitkin,2A Gulf*,GEORGIA
+3B Los Angeles,5B Bent,5B Prowers,2A Hamilton*,2A Appling*
+3B Madera,5B Boulder,5B Pueblo,2A Hardee*,2A Atkinson*
+3C Marin,5B Broomfield,6B Rio Blanco,2A Hendry*,2A Bacon*
+4B Mariposa,6B Chaffee,7 Rio Grande,2A Hernando*,2A Baker*
+3C Mendocino,5B Cheyenne,7 Routt,2A Highlands*,3A Baldwin
+3B Merced,7 Clear Creek,6B Saguache,2A Hillsborough*,4A Banks
+5B Modoc,6B Conejos,7 San Juan,2A Holmes*,3A Barrow
+6B Mono,6B Costilla,6B San Miguel,2A Indian River*,3A Bartow
+3C Monterey,5B Crowley,5B Sedgwick,2A Jackson*,3A Ben Hill*
+3C Napa,6B Custer,7 Summit,2A Jefferson*,2A Berrien*
+5B Nevada,5B Delta,5B Teller,2A Lafayette*,3A Bibb
+3B Orange,5B Denver,5B Washington,2A Lake*,3A Bleckley*
+3B Placer,6B Dolores,5B Weld,2A Lee*,2A Brantley*
+5B Plumas,5B Douglas,5B Yuma,2A Leon*,2A Brooks*
+3B Riverside,6B Eagle,CONNECTICUT,2A Levy*,2A Bryan*
+3B Sacramento,5B Elbert,5A (all),2A Liberty*,3A Bulloch*
+3C San Benito,5B El Paso,DELAWARE,2A Madison*,3A Burke
+3B San Bernardino,5B Fremont,4A (all),2A Manatee*,3A Butts
+3B San Diego,5B Garfield,DISTRICT OF,2A Marion*,3A Calhoun*
+3C San Francisco,5B Gilpin,COLUMBIA,2A Martin*,2A Camden*
+3B San Joaquin,7 Grand,4A (all),1A Miami-Dade*,3A Candler*
+3C San Luis Obispo,7 Gunnison,FLORIDA,1A Monroe*,3A Carroll
+3C San Mateo,7 Hinsdale,2A Alachua*,2A Nassau*,4A Catoosa
+3C Santa Barbara,5B Huerfano,2A Baker*,2A Okaloosa*,2A Charlton*
+3C Santa Clara,7 Jackson,2A Bay*,2A Okeechobee*,2A Chatham*
+3C Santa Cruz,5B Jefferson,2A Bradford*,2A Orange*,3A Chattahoochee*
+3B Shasta,5B Kiowa,2A Brevard*,2A Osceola*,4A Chattooga
+5B Sierra,5B Kit Carson,1A Broward*,2A Palm Beach*,3A Cherokee
+5B Siskiyou,7 Lake,2A Calhoun*,2A Pasco*,3A Clarke
+3B Solano,5B La Plata,2A Charlotte*,2A Pinellas*,3A Clay*
+3C Sonoma,5B Larimer,2A Citrus*,2A Polk*,3A Clayton
+3B Stanislaus,4B Las Animas,2A Clay*,2A Putnam*,2A Clinch*
+3B Sutter,5B Lincoln,2A Collier*,2A Santa Rosa*,3A Cobb
+3B Tehama,5B Logan,2A Columbia*,2A Sarasota*,3A Coffee*
+4B Trinity,5B Mesa,2A DeSoto*,2A Seminole*,2A Colquitt*
+3B Tulare,7 Mineral,2A Dixie*,2A St. Johns*,3A Columbia
+4B Tuolumne,6B Moffat,2A Duval*,2A St. Lucie*,2A Cook*
+3C Ventura,5B Montezuma,,2A Sumter*,3A Coweta
+3B Yolo,,,2A Suwannee*,
+3A Crawford,2A Lanier*,3A Taylor*,5B Cassia,4A Crawford
+3A Crisp*,3A Laurens*,3A Telfair*,6B Clark,5A Cumberland
+4A Dade,3A Lee*,3A Terrell*,5B Clearwater,5A DeKalb
+4A Dawson,2A Liberty*,2A Thomas*,6B Custer,5A De Witt
+2A Decatur*,3A Lincoln,3A Tift*,5B Elmore,5A Douglas
+3A DeKalb,2A Long*,2A Toombs*,6B Franklin,5A DuPage
+3A Dodge*,2A Lowndes*,4A Towns,6B Fremont,5A Edgar
+3A Dooly*,4A Lumpkin,3A Treutlen*,5B Gem,4A Edwards
+3A Dougherty*,3A Macon*,3A Troup,5B Gooding,4A Effingham
+3A Douglas,3A Madison,3A Turner*,5B Idaho,4A Fayette
+3A Early*,3A Marion*,3A Twiggs*,6B Jefferson,5A Ford
+2A Echols*,3A McDuffie,4A Union,5B Jerome,4A Franklin
+2A Effingham*,2A McIntosh*,3A Upson,5B Kootenai,5A Fulton
+3A Elbert,3A Meriwether,4A Walker,5B Latah,4A Gallatin
+3A Emanuel*,2A Miller*,3A Walton,6B Lemhi,5A Greene
+2A Evans*,2A Mitchell*,2A Ware*,5B Lewis,5A Grundy
+4A Fannin,3A Monroe,3A Warren,5B Lincoln,4A Hamilton
+3A Fayette,3A Montgomery*,3A Washington,6B Madison,5A Hancock
+4A Floyd,3A Morgan,2A Wayne*,5B Minidoka,4A Hardin
+3A Forsyth,4A Murray,3A Webster*,5B Nez Perce,5A Henderson
+4A Franklin,3A Muscogee,3A Wheeler*,6B Oneida,5A Henry
+3A Fulton,3A Newton,4A White,5B Owyhee,5A Iroquois
+4A Gilmer,3A Oconee,4A Whitfield,5B Payette,4A Jackson
+3A Glascock,3A Oglethorpe,3A Wilcox*,5B Power,4A Jasper
+2A Glynn*,3A Paulding,3A Wilkes,5B Shoshone,4A Jefferson
+4A Gordon,3A Peach*,3A Wilkinson,6B Teton,5A Jersey
+2A Grady*,4A Pickens,3A Worth*,5B Twin Falls,5A Jo Daviess
+3A Greene,2A Pierce*,HAWAII,6B Valley,4A Johnson
+3A Gwinnett,3A Pike,1A (all)*,5B Washington,5A Kane
+4A Habersham,3A Polk,IDAHO,ILLINOIS,5A Kankakee
+4A Hall,3A Pulaski*,5B Ada,5A Adams,5A Kendall
+3A Hancock,3A Putnam,6B Adams,4A Alexander,5A Knox
+3A Haralson,3A Quitman*,6B Bannock,4A Bond,5A Lake
+3A Harris,4A Rabun,6B Bear Lake,5A Boone,5A La Salle
+3A Hart,3A Randolph*,5B Benewah,5A Brown,4A Lawrence
+3A Heard,3A Richmond,6B Bingham,5A Bureau,5A Lee
+3A Henry,3A Rockdale,6B Blaine,5A Calhoun,5A Livingston
+3A Houston*,3A Schley*,6B Boise,5A Carroll,5A Logan
+3A Irwin*,3A Screven*,6B Bonner,5A Cass,5A Macon
+3A Jackson,2A Seminole*,6B Bonneville,5A Champaign,4A Macoupin
+3A Jasper,3A Spalding,6B Boundary,4A Christian,4A Madison
+2A Jeff Davis*,4A Stephens,6B Butte,5A Clark,4A Marion
+3A Jefferson,3A Stewart*,6B Camas,4A Clay,5A Marshall
+3A Jenkins*,3A Sumter*,5B Canyon,4A Clinton,5A Mason
+3A Johnson*,3A Talbot,6B Caribou,5A Coles,4A Massac
+3A Jones,3A Taliaferro,,5A Cook,5A McDonough
+3A Lamar,2A Tattnall*,,,5A McHenry
+5A McLean,5A Boone,5A Miami,5A Appanoose,5A Jasper
+5A Menard,4A Brown,4A Monroe,5A Audubon,5A Jefferson
+5A Mercer,5A Carroll,5A Montgomery,5A Benton,5A Johnson
+4A Monroe,5A Cass,5A Morgan,6A Black Hawk,5A Jones
+4A Montgomery,4A Clark,5A Newton,5A Boone,5A Keokuk
+5A Morgan,5A Clay,5A Noble,6A Bremer,6A Kossuth
+5A Moultrie,5A Clinton,4A Ohio,6A Buchanan,5A Lee
+5A Ogle,4A Crawford,4A Orange,6A Buena Vista,5A Linn
+5A Peoria,4A Daviess,5A Owen,6A Butler,5A Louisa
+4A Perry,4A Dearborn,5A Parke,6A Calhoun,5A Lucas
+5A Piatt,5A Decatur,4A Perry,5A Carroll,6A Lyon
+5A Pike,5A De Kalb,4A Pike,5A Cass,5A Madison
+4A Pope,5A Delaware,5A Porter,5A Cedar,5A Mahaska
+4A Pulaski,4A Dubois,4A Posey,6A Cerro Gordo,5A Marion
+5A Putnam,5A Elkhart,5A Pulaski,6A Cherokee,5A Marshall
+4A Randolph,5A Fayette,5A Putnam,6A Chickasaw,5A Mills
+4A Richland,4A Floyd,5A Randolph,5A Clarke,6A Mitchell
+5A Rock Island,5A Fountain,4A Ripley,6A Clay,5A Monona
+4A Saline,5A Franklin,5A Rush,6A Clayton,5A Monroe
+5A Sangamon,5A Fulton,4A Scott,5A Clinton,5A Montgomery
+5A Schuyler,4A Gibson,5A Shelby,5A Crawford,5A Muscatine
+5A Scott,5A Grant,4A Spencer,5A Dallas,6A O' Brien
+4A Shelby,4A Greene,5A Starke,5A Davis,6A Osceola
+5A Stark,5A Hamilton,5A Steuben,5A Decatur,5A Page
+4A St. Clair,5A Hancock,5A St. Joseph,6A Delaware,6A Palo Alto
+5A Stephenson,4A Harrison,4A Sullivan,5A Des Moines,6A Plymouth
+5A Tazewell,5A Hendricks,4A Switzerland,6A Dickinson,6A Pocahontas
+4A Union,5A Henry,5A Tippecanoe,5A Dubuque,5A Polk
+5A Vermilion,5A Howard,5A Tipton,6A Emmet,5A Pottawattamie
+4A Wabash,5A Huntington,5A Union,6A Fayette,5A Poweshiek
+5A Warren,4A Jackson,4A Vanderburgh,6A Floyd,5A Ringgold
+4A Washington,5A Jasper,5A Vermillion,6A Franklin,6A Sac
+4A Wayne,5A Jay,5A Vigo,5A Fremont,5A Scott
+4A White,4A Jefferson,5A Wabash,5A Greene,5A Shelby
+5A Whiteside,4A Jennings,5A Warren,6A Grundy,6A Sioux
+5A Will,5A Johnson,4A Warrick,5A Guthrie,5A Story
+4A Williamson,4A Knox,4A Washington,6A Hamilton,5A Tama
+5A Winnebago,5A Kosciusko,5A Wayne,6A Hancock,5A Taylor
+5A Woodford,5A LaGrange,5A Wells,6A Hardin,5A Union
+INDIANA,5A Lake,5A White,5A Harrison,5A Van Buren
+5A Adams,5A LaPorte,5A Whitley,5A Henry,5A Wapello
+5A Allen,4A Lawrence,IOWA,6A Howard,5A Warren
+5A Bartholomew,5A Madison,5A Adair,6A Humboldt,5A Washington
+5A Benton,5A Marion,5A Adams,6A Ida,5A Wayne
+5A Blackford,5A Marshall,6A Allamakee,5A Iowa,6A Webster
+,4A Martin,,5A Jackson,6A Winnebago
+6A Winneshiek,4A Haskell,4A Sedgwick,2A Iberville*,6A Cumberland
+5A Woodbury,4A Hodgeman,4A Seward,3A Jackson*,6A Franklin
+6A Worth,4A Jackson,4A Shawnee,2A Jefferson*,6A Hancock
+6A Wright,4A Jefferson,5A Sheridan,2A Jefferson Davis*,6A Kennebec
+KANSAS,5A Jewell,5A Sherman,2A Lafayette*,6A Knox
+4A Allen,4A Johnson,5A Smith,2A Lafourche*,6A Lincoln
+4A Anderson,4A Kearny,4A Stafford,3A La Salle*,6A Oxford
+4A Atchison,4A Kingman,4A Stanton,3A Lincoln*,6A Penobscot
+4A Barber,4A Kiowa,4A Stevens,2A Livingston*,6A Piscataquis
+4A Barton,4A Labette,4A Sumner,3A Madison*,6A Sagadahoc
+4A Bourbon,5A Lane,5A Thomas,3A Morehouse,6A Somerset
+4A Brown,4A Leavenworth,5A Trego,3A Natchitoches*,6A Waldo
+4A Butler,4A Lincoln,4A Wabaunsee,2A Orleans*,6A Washington
+4A Chase,4A Linn,5A Wallace,3A Ouachita*,6A York
+4A Chautauqua,5A Logan,4A Washington,2A Plaquemines*,MARYLAND
+4A Cherokee,4A Lyon,5A Wichita,2A Pointe Coupee*,4A Allegany
+5A Cheyenne,4A Marion,4A Wilson,2A Rapides*,4A Anne Arundel
+4A Clark,4A Marshall,4A Woodson,3A Red River*,4A Baltimore
+4A Clay,4A McPherson,4A Wyandotte,3A Richland*,4A Baltimore (city)
+5A Cloud,4A Meade,KENTUCKY,3A Sabine*,4A Calvert
+4A Coffey,4A Miami,4A (all),2A St. Bernard*,4A Caroline
+4A Comanche,5A Mitchell,LOUISIANA,2A St. Charles*,4A Carroll
+4A Cowley,4A Montgomery,2A Acadia*,2A St. Helena*,4A Cecil
+4A Crawford,4A Morris,2A Allen*,2A St. James*,4A Charles
+5A Decatur,4A Morton,2A Ascension*,2A St. John the,4A Dorchester
+4A Dickinson,4A Nemaha,2A Assumption*,Baptist*,4A Frederick
+4A Doniphan,4A Neosho,2A Avoyelles*,2A St. Landry*,5A Garrett
+4A Douglas,5A Ness,2A Beauregard*,2A St. Martin*,4A Harford
+4A Edwards,5A Norton,3A Bienville*,2A St. Mary*,4A Howard
+4A Elk,4A Osage,3A Bossier*,2A St. Tammany*,4A Kent
+5A Ellis,5A Osborne,3A Caddo*,2A Tangipahoa*,4A Montgomery
+4A Ellsworth,4A Ottawa,2A Calcasieu*,3A Tensas*,4A Prince George s
+4A Finney,4A Pawnee,3A Caldwell*,2A Terrebonne*,4A Queen Anne s
+4A Ford,5A Phillips,2A Cameron*,3A Union*,4A Somerset
+4A Franklin,4A Pottawatomie,3A Catahoula*,2A Vermilion*,4A St. Mary s
+4A Geary,4A Pratt,3A Claiborne*,3A Vernon*,4A Talbot
+5A Gove,5A Rawlins,3A Concordia*,2A Washington*,4A Washington
+5A Graham,4A Reno,3A De Soto*,3A Webster*,4A Wicomico
+4A Grant,5A Republic,2A East Baton Rouge*,2A West Baton,4A Worcester
+4A Gray,4A Rice,3A East Carroll,Rouge*,MASSACHSETTS
+5A Greeley,4A Riley,2A East Feliciana*,3A West Carroll,5A (all)
+4A Greenwood,5A Rooks,2A Evangeline*,2A West Feliciana*,MICHIGAN
+5A Hamilton,4A Rush,3A Franklin*,3A Winn*,6A Alcona
+4A Harper,4A Russell,3A Grant*,MAINE,6A Alger
+4A Harvey,4A Saline,2A Iberia*,6A Androscoggin,
+,5A Scott,,7 Aroostook,
+5A Allegan,7 Mackinac,6A Carver,7 Otter Tail,3A Clarke
+6A Alpena,5A Macomb,7 Cass,7 Pennington,3A Clay
+6A Antrim,6A Manistee,6A Chippewa,7 Pine,3A Coahoma
+6A Arenac,6A Marquette,6A Chisago,6A Pipestone,3A Copiah*
+7 Baraga,6A Mason,7 Clay,7 Polk,3A Covington*
+5A Barry,6A Mecosta,7 Clearwater,6A Pope,3A DeSoto
+5A Bay,6A Menominee,7 Cook,6A Ramsey,3A Forrest*
+6A Benzie,5A Midland,6A Cottonwood,7 Red Lake,3A Franklin*
+5A Berrien,6A Missaukee,7 Crow Wing,6A Redwood,3A George*
+5A Branch,5A Monroe,6A Dakota,6A Renville,3A Greene*
+5A Calhoun,5A Montcalm,6A Dodge,6A Rice,3A Grenada
+5A Cass,6A Montmorency,6A Douglas,6A Rock,2A Hancock*
+6A Charlevoix,5A Muskegon,6A Faribault,7 Roseau,2A Harrison*
+6A Cheboygan,6A Newaygo,6A Fillmore,6A Scott,3A Hinds*
+7 Chippewa,5A Oakland,6A Freeborn,6A Sherburne,3A Holmes
+6A Clare,6A Oceana,6A Goodhue,6A Sibley,3A Humphreys
+5A Clinton,6A Ogemaw,7 Grant,6A Stearns,3A Issaquena
+6A Crawford,7 Ontonagon,6A Hennepin,6A Steele,3A Itawamba
+6A Delta,6A Osceola,6A Houston,6A Stevens,2A Jackson*
+6A Dickinson,6A Oscoda,7 Hubbard,7 St. Louis,3A Jasper
+5A Eaton,6A Otsego,6A Isanti,6A Swift,3A Jefferson*
+6A Emmet,5A Ottawa,7 Itasca,6A Todd,3A Jefferson Davis*
+5A Genesee,6A Presque Isle,6A Jackson,6A Traverse,3A Jones*
+6A Gladwin,6A Roscommon,7 Kanabec,6A Wabasha,3A Kemper
+7 Gogebic,5A Saginaw,6A Kandiyohi,7 Wadena,3A Lafayette
+6A Grand Traverse,6A Sanilac,7 Kittson,6A Waseca,3A Lamar*
+5A Gratiot,7 Schoolcraft,7 Koochiching,6A Washington,3A Lauderdale
+5A Hillsdale,5A Shiawassee,6A Lac qui Parle,6A Watonwan,3A Lawrence*
+7 Houghton,5A St. Clair,7 Lake,7 Wilkin,3A Leake
+6A Huron,5A St. Joseph,7 Lake of the Woods,6A Winona,3A Lee
+5A Ingham,5A Tuscola,6A Le Sueur,6A Wright,3A Leflore
+5A Ionia,5A Van Buren,6A Lincoln,6A Yellow,3A Lincoln*
+6A Iosco,5A Washtenaw,6A Lyon,Medicine,3A Lowndes
+7 Iron,5A Wayne,7 Mahnomen,MISSISSIPPI,3A Madison
+6A Isabella,6A Wexford,7 Marshall,3A Adams*,3A Marion*
+5A Jackson,MINNESOTA,6A Martin,3A Alcorn,3A Marshall
+5A Kalamazoo,7 Aitkin,6A McLeod,3A Amite*,3A Monroe
+6A Kalkaska,6A Anoka,6A Meeker,3A Attala,3A Montgomery
+5A Kent,7 Becker,7 Mille Lacs,3A Benton,3A Neshoba
+7 Keweenaw,7 Beltrami,6A Morrison,3A Bolivar,3A Newton
+6A Lake,6A Benton,6A Mower,3A Calhoun,3A Noxubee
+5A Lapeer,6A Big Stone,6A Murray,3A Carroll,3A Oktibbeha
+6A Leelanau,6A Blue Earth,6A Nicollet,3A Chickasaw,3A Panola
+5A Lenawee,6A Brown,6A Nobles,3A Choctaw,2A Pearl River*
+5A Livingston,7 Carlton,7 Norman,3A Claiborne*,3A Perry*
+7 Luce,,6A Olmsted,,3A Pike*
+3A Pontotoc,5A Chariton,4A Mississippi,4A Webster,4A Cumberland
+3A Prentiss,4A Christian,4A Moniteau,5A Worth,4A Essex
+3A Quitman,5A Clark,4A Monroe,4A Wright,4A Gloucester
+3A Rankin*,4A Clay,4A Montgomery,MONTANA,4A Hudson
+3A Scott,5A Clinton,4A Morgan,6B (all),5A Hunterdon
+3A Sharkey,4A Cole,4A New Madrid,NEBRASKA,5A Mercer
+3A Simpson*,4A Cooper,4A Newton,5A (all),4A Middlesex
+3A Smith*,4A Crawford,5A Nodaway,NEVADA,4A Monmouth
+2A Stone*,4A Dade,4A Oregon,5B Carson City (city),5A Morris
+3A Sunflower,4A Dallas,4A Osage,5B Churchill,4A Ocean
+3A Tallahatchie,5A Daviess,4A Ozark,3B Clark,5A Passaic
+3A Tate,5A DeKalb,4A Pemiscot,5B Douglas,4A Salem
+3A Tippah,4A Dent,4A Perry,5B Elko,5A Somerset
+3A Tishomingo,4A Douglas,4A Pettis,5B Esmeralda,5A Sussex
+3A Tunica,4A Dunklin,4A Phelps,5B Eureka,4A Union
+3A Union,4A Franklin,5A Pike,5B Humboldt,5A Warren
+3A Walthall*,4A Gasconade,4A Platte,5B Lander,NEW MEXICO
+3A Warren*,5A Gentry,4A Polk,5B Lincoln,4B Bernalillo
+3A Washington,4A Greene,4A Pulaski,5B Lyon,5B Catron
+3A Wayne*,5A Grundy,5A Putnam,5B Mineral,3B Chaves
+3A Webster,5A Harrison,5A Ralls,5B Nye,4B Cibola
+3A Wilkinson*,4A Henry,4A Randolph,5B Pershing,5B Colfax
+3A Winston,4A Hickory,4A Ray,5B Storey,4B Curry
+3A Yalobusha,5A Holt,4A Reynolds,5B Washoe,4B DeBaca
+3A Yazoo,4A Howard,4A Ripley,5B White Pine,3B Doña Ana
+MISSOURI,4A Howell,4A Saline,NEW,3B Eddy
+5A Adair,4A Iron,5A Schuyler,HAMPSHIRE,4B Grant
+5A Andrew,4A Jackson,5A Scotland,6A Belknap,4B Guadalupe
+5A Atchison,4A Jasper,4A Scott,6A Carroll,5B Harding
+4A Audrain,4A Jefferson,4A Shannon,5A Cheshire,3B Hidalgo
+4A Barry,4A Johnson,5A Shelby,6A Coos,3B Lea
+4A Barton,5A Knox,4A St. Charles,6A Grafton,4B Lincoln
+4A Bates,4A Laclede,4A St. Clair,5A Hillsborough,5B Los Alamos
+4A Benton,4A Lafayette,4A St. Francois,6A Merrimack,3B Luna
+4A Bollinger,4A Lawrence,4A St. Louis,5A Rockingham,5B McKinley
+4A Boone,5A Lewis,4A St. Louis (city),5A Strafford,5B Mora
+5A Buchanan,4A Lincoln,4A Ste. Genevieve,6A Sullivan,3B Otero
+4A Butler,5A Linn,4A Stoddard,NEW JERSEY,4B Quay
+5A Caldwell,5A Livingston,4A Stone,4A Atlantic,5B Rio Arriba
+4A Callaway,5A Macon,5A Sullivan,5A Bergen,4B Roosevelt
+4A Camden,4A Madison,4A Taney,4A Burlington,5B Sandoval
+4A Cape Girardeau,4A Maries,4A Texas,4A Camden,5B San Juan
+4A Carroll,5A Marion,4A Vernon,4A Cape May,5B San Miguel
+4A Carter,4A McDonald,4A Warren,,5B Santa Fe
+4A Cass,5A Mercer,4A Washington,,4B Sierra
+4A Cedar,4A Miller,4A Wayne,,4B Socorro
+5B Taos,4A Queens,4A Clay,4A Orange,7 Divide
+5B Torrance,5A Rensselaer,4A Cleveland,3A Pamlico,6A Dunn
+4B Union,4A Richmond,3A Columbus*,3A Pasquotank,7 Eddy
+4B Valencia,5A Rockland,3A Craven,3A Pender*,6A Emmons
+NEW YORK,5A Saratoga,3A Cumberland,3A Perquimans,7 Foster
+5A Albany,5A Schenectady,3A Currituck,4A Person,6A Golden Valley
+6A Allegany,6A Schoharie,3A Dare,3A Pitt,7 Grand Forks
+4A Bronx,6A Schuyler,3A Davidson,4A Polk,6A Grant
+6A Broome,5A Seneca,4A Davie,3A Randolph,7 Griggs
+6A Cattaraugus,6A Steuben,3A Duplin,3A Richmond,6A Hettinger
+5A Cayuga,6A St. Lawrence,4A Durham,3A Robeson,7 Kidder
+5A Chautauqua,4A Suffolk,3A Edgecombe,4A Rockingham,6A LaMoure
+5A Chemung,6A Sullivan,4A Forsyth,3A Rowan,6A Logan
+6A Chenango,5A Tioga,4A Franklin,4A Rutherford,7 McHenry
+6A Clinton,6A Tompkins,3A Gaston,3A Sampson,6A McIntosh
+5A Columbia,6A Ulster,4A Gates,3A Scotland,6A McKenzie
+5A Cortland,6A Warren,4A Graham,3A Stanly,7 McLean
+6A Delaware,5A Washington,4A Granville,4A Stokes,6A Mercer
+5A Dutchess,5A Wayne,3A Greene,4A Surry,6A Morton
+5A Erie,4A Westchester,4A Guilford,4A Swain,7 Mountrail
+6A Essex,6A Wyoming,4A Halifax,4A Transylvania,7 Nelson
+6A Franklin,5A Yates,4A Harnett,3A Tyrrell,6A Oliver
+6A Fulton,NORTH,4A Haywood,3A Union,7 Pembina
+5A Genesee,CAROLINA,4A Henderson,4A Vance,7 Pierce
+5A Greene,4A Alamance,4A Hertford,4A Wake,7 Ramsey
+6A Hamilton,4A Alexander,3A Hoke,4A Warren,6A Ransom
+6A Herkimer,5A Alleghany,3A Hyde,3A Washington,7 Renville
+6A Jefferson,3A Anson,4A Iredell,5A Watauga,6A Richland
+4A Kings,5A Ashe,4A Jackson,3A Wayne,7 Rolette
+6A Lewis,5A Avery,3A Johnston,4A Wilkes,6A Sargent
+5A Livingston,3A Beaufort,3A Jones,3A Wilson,7 Sheridan
+6A Madison,4A Bertie,4A Lee,4A Yadkin,6A Sioux
+5A Monroe,3A Bladen,3A Lenoir,5A Yancey,6A Slope
+6A Montgomery,3A Brunswick*,4A Lincoln,NORTH DAKOTA,6A Stark
+4A Nassau,4A Buncombe,4A Macon,6A Adams,7 Steele
+4A New York,4A Burke,4A Madison,7 Barnes,7 Stutsman
+5A Niagara,3A Cabarrus,3A Martin,7 Benson,7 Towner
+6A Oneida,4A Caldwell,4A McDowell,6A Billings,7 Traill
+5A Onondaga,3A Camden,3A Mecklenburg,7 Bottineau,7 Walsh
+5A Ontario,3A Carteret*,5A Mitchell,6A Bowman,7 Ward
+5A Orange,4A Caswell,3A Montgomery,7 Burke,7 Wells
+5A Orleans,4A Catawba,3A Moore,6A Burleigh,7 Williams
+5A Oswego,4A Chatham,4A Nash,7 Cass,OHIO
+6A Otsego,4A Cherokee,3A New Hanover*,7 Cavalier,4A Adams
+5A Putnam,3A Chowan,4A Northampton,6A Dickey,5A Allen
+5A Ashland,5A Mahoning,3A Bryan,3A Okfuskee,4C Linn
+5A Ashtabula,5A Marion,3A Caddo,3A Oklahoma,5B Malheur
+5A Athens,5A Medina,3A Canadian,3A Okmulgee,4C Marion
+5A Auglaize,5A Meigs,3A Carter,3A Osage,5B Morrow
+5A Belmont,5A Mercer,3A Cherokee,3A Ottawa,4C Multnomah
+4A Brown,5A Miami,3A Choctaw,3A Pawnee,4C Polk
+5A Butler,5A Monroe,4B Cimarron,3A Payne,5B Sherman
+5A Carroll,5A Montgomery,3A Cleveland,3A Pittsburg,4C Tillamook
+5A Champaign,5A Morgan,3A Coal,3A Pontotoc,5B Umatilla
+5A Clark,5A Morrow,3A Comanche,3A Pottawatomie,5B Union
+4A Clermont,5A Muskingum,3A Cotton,3A Pushmataha,5B Wallowa
+5A Clinton,5A Noble,3A Craig,3A Roger Mills,5B Wasco
+5A Columbiana,5A Ottawa,3A Creek,3A Rogers,4C Washington
+5A Coshocton,5A Paulding,3A Custer,3A Seminole,5B Wheeler
+5A Crawford,5A Perry,3A Delaware,3A Sequoyah,4C Yamhill
+5A Cuyahoga,5A Pickaway,3A Dewey,3A Stephens,PENNSYLVANIA
+5A Darke,4A Pike,3A Ellis,4B Texas,5A Adams
+5A Defiance,5A Portage,3A Garfield,3A Tillman,5A Allegheny
+5A Delaware,5A Preble,3A Garvin,3A Tulsa,5A Armstrong
+5A Erie,5A Putnam,3A Grady,3A Wagoner,5A Beaver
+5A Fairfield,5A Richland,3A Grant,3A Washington,5A Bedford
+5A Fayette,5A Ross,3A Greer,3A Washita,5A Berks
+5A Franklin,5A Sandusky,3A Harmon,3A Woods,5A Blair
+5A Fulton,4A Scioto,3A Harper,3A Woodward,5A Bradford
+4A Gallia,5A Seneca,3A Haskell,OREGON,4A Bucks
+5A Geauga,5A Shelby,3A Hughes,5B Baker,5A Butler
+5A Greene,5A Stark,3A Jackson,4C Benton,5A Cambria
+5A Guernsey,5A Summit,3A Jefferson,4C Clackamas,6A Cameron
+4A Hamilton,5A Trumbull,3A Johnston,4C Clatsop,5A Carbon
+5A Hancock,5A Tuscarawas,3A Kay,4C Columbia,5A Centre
+5A Hardin,5A Union,3A Kingfisher,4C Coos,4A Chester
+5A Harrison,5A Van Wert,3A Kiowa,5B Crook,5A Clarion
+5A Henry,5A Vinton,3A Latimer,4C Curry,6A Clearfield
+5A Highland,5A Warren,3A Le Flore,5B Deschutes,5A Clinton
+5A Hocking,4A Washington,3A Lincoln,4C Douglas,5A Columbia
+5A Holmes,5A Wayne,3A Logan,5B Gilliam,5A Crawford
+5A Huron,5A Williams,3A Love,5B Grant,5A Cumberland
+5A Jackson,5A Wood,3A Major,5B Harney,5A Dauphin
+5A Jefferson,5A Wyandot,3A Marshall,5B Hood River,4A Delaware
+5A Knox,OKLAHOMA,3A Mayes,4C Jackson,6A Elk
+5A Lake,3A Adair,3A McClain,5B Jefferson,5A Erie
+4A Lawrence,3A Alfalfa,3A McCurtain,4C Josephine,5A Fayette
+5A Licking,3A Atoka,3A McIntosh,5B Klamath,5A Forest
+5A Logan,4B Beaver,3A Murray,5B Lake,5A Franklin
+5A Lorain,3A Beckham,3A Muskogee,4C Lane,5A Fulton
+5A Lucas,3A Blaine,3A Noble,4C Lincoln,5A Greene
+5A Madison,,3A Nowata,,
+5A Huntingdon,3A Bamberg*,5A Bennett,6A Minnehaha,4A Gibson
+5A Indiana,3A Barnwell*,5A Bon Homme,6A Moody,4A Giles
+5A Jefferson,3A Beaufort*,6A Brookings,6A Pennington,4A Grainger
+5A Juniata,3A Berkeley*,6A Brown,6A Perkins,4A Greene
+5A Lackawanna,3A Calhoun,6A Brule,6A Potter,4A Grundy
+5A Lancaster,3A Charleston*,6A Buffalo,6A Roberts,4A Hamblen
+5A Lawrence,3A Cherokee,6A Butte,6A Sanborn,4A Hamilton
+5A Lebanon,3A Chester,6A Campbell,6A Shannon,4A Hancock
+5A Lehigh,3A Chesterfield,5A Charles Mix,6A Spink,3A Hardeman
+5A Luzerne,3A Clarendon,6A Clark,6A Stanley,3A Hardin
+5A Lycoming,3A Colleton*,5A Clay,6A Sully,4A Hawkins
+6A McKean,3A Darlington,6A Codington,5A Todd,3A Haywood
+5A Mercer,3A Dillon,6A Corson,5A Tripp,3A Henderson
+5A Mifflin,3A Dorchester*,6A Custer,6A Turner,4A Henry
+5A Monroe,3A Edgefield,6A Davison,5A Union,4A Hickman
+4A Montgomery,3A Fairfield,6A Day,6A Walworth,4A Houston
+5A Montour,3A Florence,6A Deuel,5A Yankton,4A Humphreys
+5A Northampton,3A Georgetown*,6A Dewey,6A Ziebach,4A Jackson
+5A Northumberland,3A Greenville,5A Douglas,TENNESSEE,4A Jefferson
+5A Perry,3A Greenwood,6A Edmunds,4A Anderson,4A Johnson
+4A Philadelphia,3A Hampton*,6A Fall River,4A Bedford,4A Knox
+5A Pike,3A Horry*,6A Faulk,4A Benton,3A Lake
+6A Potter,3A Jasper*,6A Grant,4A Bledsoe,3A Lauderdale
+5A Schuylkill,3A Kershaw,5A Gregory,4A Blount,4A Lawrence
+5A Snyder,3A Lancaster,6A Haakon,4A Bradley,4A Lewis
+5A Somerset,3A Laurens,6A Hamlin,4A Campbell,4A Lincoln
+5A Sullivan,3A Lee,6A Hand,4A Cannon,4A Loudon
+6A Susquehanna,3A Lexington,6A Hanson,4A Carroll,4A Macon
+6A Tioga,3A Marion,6A Harding,4A Carter,3A Madison
+5A Union,3A Marlboro,6A Hughes,4A Cheatham,4A Marion
+5A Venango,3A McCormick,5A Hutchinson,3A Chester,4A Marshall
+5A Warren,3A Newberry,6A Hyde,4A Claiborne,4A Maury
+5A Washington,3A Oconee,5A Jackson,4A Clay,4A McMinn
+6A Wayne,3A Orangeburg,6A Jerauld,4A Cocke,3A McNairy
+5A Westmoreland,3A Pickens,6A Jones,4A Coffee,4A Meigs
+5A Wyoming,3A Richland,6A Kingsbury,3A Crockett,4A Monroe
+4A York,3A Saluda,6A Lake,4A Cumberland,4A Montgomery
+RHODE ISLAND,3A Spartanburg,6A Lawrence,4A Davidson,4A Moore
+5A (all),3A Sumter,6A Lincoln,4A Decatur,4A Morgan
+SOUTH,3A Union,6A Lyman,4A DeKalb,4A Obion
+CAROLINA,3A Williamsburg,6A Marshall,4A Dickson,4A Overton
+3A Abbeville,3A York,6A McCook,3A Dyer,4A Perry
+3A Aiken,SOUTH DAKOTA,6A McPherson,3A Fayette,4A Pickett
+3A Allendale*,6A Aurora,6A Meade,4A Fentress,4A Polk
+3A Anderson,6A Beadle,5A Mellette,4A Franklin,4A Putnam
+,,6A Miner,,4A Rhea
+,,,,
+,,,,
+(continued),,,,
+,,,,
+"TABLE C301.1?continued CLIMATE ZONES, MOISTURE REGIMES, AND WARM-HUMID DESIGNATIONS BY STATE, COUNTY AND TERRITORY",,,,
+,,,,
+4A Roane,3B Brewster,3B Ector,3B Howard,3B McCulloch
+4A Robertson,4B Briscoe,2B Edwards,3B Hudspeth,2A McLennan*
+4A Rutherford,2A Brooks*,3A Ellis*,3A Hunt*,2A McMullen*
+4A Scott,3A Brown*,3B El Paso,4B Hutchinson,2B Medina
+4A Sequatchie,2A Burleson*,3A Erath*,3B Irion,3B Menard
+4A Sevier,3A Burnet*,2A Falls*,3A Jack,3B Midland
+3A Shelby,2A Caldwell*,3A Fannin,2A Jackson*,2A Milam*
+4A Smith,2A Calhoun*,2A Fayette*,2A Jasper*,3A Mills*
+4A Stewart,3B Callahan,3B Fisher,3B Jeff Davis,3B Mitchell
+4A Sullivan,2A Cameron*,4B Floyd,2A Jefferson*,3A Montague
+4A Sumner,3A Camp*,3B Foard,2A Jim Hogg*,2A Montgomery*
+3A Tipton,4B Carson,2A Fort Bend*,2A Jim Wells*,4B Moore
+4A Trousdale,3A Cass*,3A Franklin*,3A Johnson*,3A Morris*
+4A Unicoi,4B Castro,2A Freestone*,3B Jones,3B Motley
+4A Union,2A Chambers*,2B Frio,2A Karnes*,3A Nacogdoches*
+4A Van Buren,2A Cherokee*,3B Gaines,3A Kaufman*,3A Navarro*
+4A Warren,3B Childress,2A Galveston*,3A Kendall*,2A Newton*
+4A Washington,3A Clay,3B Garza,2A Kenedy*,3B Nolan
+4A Wayne,4B Cochran,3A Gillespie*,3B Kent,2A Nueces*
+4A Weakley,3B Coke,3B Glasscock,3B Kerr,4B Ochiltree
+4A White,3B Coleman,2A Goliad*,3B Kimble,4B Oldham
+4A Williamson,3A Collin*,2A Gonzales*,3B King,2A Orange*
+4A Wilson,3B Collingsworth,4B Gray,2B Kinney,3A Palo Pinto*
+TEXAS,2A Colorado*,3A Grayson,2A Kleberg*,3A Panola*
+2A Anderson*,2A Comal*,3A Gregg*,3B Knox,3A Parker*
+3B Andrews,3A Comanche*,2A Grimes*,3A Lamar*,4B Parmer
+2A Angelina*,3B Concho,2A Guadalupe*,4B Lamb,3B Pecos
+2A Aransas*,3A Cooke,4B Hale,3A Lampasas*,2A Polk*
+3A Archer,2A Coryell*,3B Hall,2B La Salle,4B Potter
+4B Armstrong,3B Cottle,3A Hamilton*,2A Lavaca*,3B Presidio
+2A Atascosa*,3B Crane,4B Hansford,2A Lee*,3A Rains*
+2A Austin*,3B Crockett,3B Hardeman,2A Leon*,4B Randall
+4B Bailey,3B Crosby,2A Hardin*,2A Liberty*,3B Reagan
+2B Bandera,3B Culberson,2A Harris*,2A Limestone*,2B Real
+2A Bastrop*,4B Dallam,3A Harrison*,4B Lipscomb,3A Red River*
+3B Baylor,3A Dallas*,4B Hartley,2A Live Oak*,3B Reeves
+2A Bee*,3B Dawson,3B Haskell,3A Llano*,2A Refugio*
+2A Bell*,4B Deaf Smith,2A Hays*,3B Loving,4B Roberts
+2A Bexar*,3A Delta,3B Hemphill,3B Lubbock,2A Robertson*
+3A Blanco*,3A Denton*,3A Henderson*,3B Lynn,3A Rockwall*
+3B Borden,2A DeWitt*,2A Hidalgo*,2A Madison*,3B Runnels
+2A Bosque*,3B Dickens,2A Hill*,3A Marion*,3A Rusk*
+3A Bowie*,2B Dimmit,4B Hockley,3B Martin,3A Sabine*
+2A Brazoria*,4B Donley,3A Hood*,3B Mason,3A San Augustine*
+2A Brazos*,2A Duval*,3A Hopkins*,2A Matagorda*,2A San Jacinto*
+,3A Eastland,2A Houston*,2B Maverick,2A San Patricio*
+3A San Saba*,3A Young,4C Clark,4A Gilmer,WISCONSIN
+3B Schleicher,2B Zapata,5B Columbia,5A Grant,6A Adams
+3B Scurry,2B Zavala,4C Cowlitz,5A Greenbrier,7 Ashland
+3B Shackelford,UTAH,5B Douglas,5A Hampshire,6A Barron
+3A Shelby*,5B Beaver,6B Ferry,5A Hancock,7 Bayfield
+4B Sherman,6B Box Elder,5B Franklin,5A Hardy,6A Brown
+3A Smith*,6B Cache,5B Garfield,5A Harrison,6A Buffalo
+3A Somervell*,6B Carbon,5B Grant,4A Jackson,7 Burnett
+2A Starr*,6B Daggett,4C Grays Harbor,4A Jefferson,6A Calumet
+3A Stephens,5B Davis,4C Island,4A Kanawha,6A Chippewa
+3B Sterling,6B Duchesne,4C Jefferson,5A Lewis,6A Clark
+3B Stonewall,5B Emery,4C King,4A Lincoln,6A Columbia
+3B Sutton,5B Garfield,4C Kitsap,4A Logan,6A Crawford
+4B Swisher,5B Grand,5B Kittitas,5A Marion,6A Dane
+3A Tarrant*,5B Iron,5B Klickitat,5A Marshall,6A Dodge
+3B Taylor,5B Juab,4C Lewis,4A Mason,6A Door
+3B Terrell,5B Kane,5B Lincoln,4A McDowell,7 Douglas
+3B Terry,5B Millard,4C Mason,4A Mercer,6A Dunn
+3B Throckmorton,6B Morgan,6B Okanogan,5A Mineral,6A Eau Claire
+3A Titus*,5B Piute,4C Pacific,4A Mingo,7 Florence
+3B Tom Green,6B Rich,6B Pend Oreille,5A Monongalia,6A Fond du Lac
+2A Travis*,5B Salt Lake,4C Pierce,4A Monroe,7 Forest
+2A Trinity*,5B San Juan,4C San Juan,4A Morgan,6A Grant
+2A Tyler*,5B Sanpete,4C Skagit,5A Nicholas,6A Green
+3A Upshur*,5B Sevier,5B Skamania,5A Ohio,6A Green Lake
+3B Upton,6B Summit,4C Snohomish,5A Pendleton,6A Iowa
+2B Uvalde,5B Tooele,5B Spokane,4A Pleasants,7 Iron
+2B Val Verde,6B Uintah,6B Stevens,5A Pocahontas,6A Jackson
+3A Van Zandt*,5B Utah,4C Thurston,5A Preston,6A Jefferson
+2A Victoria*,6B Wasatch,4C Wahkiakum,4A Putnam,6A Juneau
+2A Walker*,3B Washington,5B Walla Walla,5A Raleigh,6A Kenosha
+2A Waller*,5B Wayne,4C Whatcom,5A Randolph,6A Kewaunee
+3B Ward,5B Weber,5B Whitman,4A Ritchie,6A La Crosse
+2A Washington*,VERMONT,5B Yakima,4A Roane,6A Lafayette
+2B Webb,6A (all),WEST VIRGINIA,5A Summers,7 Langlade
+2A Wharton*,VIRGINIA,5A Barbour,5A Taylor,7 Lincoln
+3B Wheeler,4A (all),4A Berkeley,5A Tucker,6A Manitowoc
+3A Wichita,WASHINGTON,4A Boone,4A Tyler,6A Marathon
+3B Wilbarger,5B Adams,4A Braxton,5A Upshur,6A Marinette
+2A Willacy*,5B Asotin,5A Brooke,4A Wayne,6A Marquette
+2A Williamson*,5B Benton,4A Cabell,5A Webster,6A Menominee
+2A Wilson*,5B Chelan,4A Calhoun,5A Wetzel,6A Milwaukee
+3B Winkler,4C Clallam,4A Clay,4A Wirt,6A Monroe
+3A Wise,,5A Doddridge,4A Wood,6A Oconto
+3A Wood*,,5A Fayette,4A Wyoming,7 Oneida
+4B Yoakum,,,,6A Outagamie
+6A Ozaukee,7 Taylor,6B Big Horn,6B Sheridan,NORTHERN
+6A Pepin,6A Trempealeau,6B Campbell,7 Sublette,MARIANA
+6A Pierce,6A Vernon,6B Carbon,6B Sweetwater,ISLANDS
+6A Polk,7 Vilas,6B Converse,7 Teton,1A (all)*
+6A Portage,6A Walworth,6B Crook,6B Uinta,PUERTO RICO
+7 Price,7 Washburn,6B Fremont,6B Washakie,1A (all)*
+6A Racine,6A Washington,5B Goshen,6B Weston,VIRGIN ISLANDS
+6A Richland,6A Waukesha,6B Hot Springs,US TERRITORIES,1A (all)*
+6A Rock,6A Waupaca,6B Johnson,AMERICAN,
+6A Rusk,6A Waushara,6B Laramie,SAMOA,
+6A Sauk,6A Winnebago,7 Lincoln,1A (all)*,
+7 Sawyer,6A Wood,6B Natrona,GUAM,
+6A Shawano,WYOMING,6B Niobrara,1A (all)*,
+6A Sheboygan,6B Albany,6B Park,,
+6A St. Croix,,5B Platte,,
